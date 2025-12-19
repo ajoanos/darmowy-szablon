@@ -1,5 +1,91 @@
 <p>[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][vc_column_text css=".vc_custom_1689604465570{padding-top: 40px !important;}"]</p>
-[vc_raw_html]Cjpyb290IHsKICAtLXByZW1pdW0tbmF2eTogIzExMTgyNzsKICAtLXByZW1pdW0tZ3JheTogI2Y2ZjdmYjsKICAtLXByZW1pdW0tYmx1ZTogIzI1NjNlYjsKICAtLXByZW1pdW0tZ29sZDogI2Y1YzQ1MTsKICAtLXByZW1pdW0taW5rOiAjMWYyOTM3Owp9Ci5wcmVtaXVtLXBhZ2UgewogIGZvbnQtZmFtaWx5OiAiSW50ZXIiLCBBcmlhbCwgc2Fucy1zZXJpZjsKICBjb2xvcjogdmFyKC0tcHJlbWl1bS1pbmspOwogIGxpbmUtaGVpZ2h0OiAxLjc7Cn0KLnByZW1pdW0tcGFnZSBoMSwKLnByZW1pdW0tcGFnZSBoMiwKLnByZW1pdW0tcGFnZSBoMywKLnByZW1pdW0tcGFnZSBoNCB7CiAgZm9udC1mYW1pbHk6ICJQbGF5ZmFpciBEaXNwbGF5IiwgR2VvcmdpYSwgc2VyaWY7CiAgY29sb3I6IHZhcigtLXByZW1pdW0tbmF2eSk7CiAgbGV0dGVyLXNwYWNpbmc6IC0wLjJweDsKfQoucHJlbWl1bS1wYWdlIGEgeyBjb2xvcjogdmFyKC0tcHJlbWl1bS1ibHVlKTsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyB9Ci5wcmVtaXVtLXBhZ2UgYTpob3ZlciB7IHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyB9CgoucHJlbWl1bS1wYWdlIC52Y19yb3csCi5wcmVtaXVtLXBhZ2UgLnZjX3NlY3Rpb24gewogIHBhZGRpbmctdG9wOiA1NnB4OwogIHBhZGRpbmctYm90dG9tOiA1NnB4Owp9CgoucHJlbWl1bS1oZXJvIHsKICBiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjZmZmZmZmIDAlLCAjZjZmN2ZiIDEwMCUpOwp9Ci5wcmVtaXVtLWhlcm8gaDEgeyBmb250LXNpemU6IDUycHg7IG1hcmdpbi1ib3R0b206IDEwcHg7IH0KCi5wcmVtaXVtLWNhcmQgewogIGJhY2tncm91bmQ6ICNmZmZmZmY7CiAgYm9yZGVyLXJhZGl1czogMTZweDsKICBwYWRkaW5nOiAyOHB4OwogIGJvcmRlcjogMXB4IHNvbGlkICNlNWU3ZWI7CiAgYm94LXNoYWRvdzogMCAxMnB4IDMwcHggcmdiYSgxNSwgMjMsIDQyLCAwLjA4KTsKfQoKLnByZW1pdW0tc2VjdGlvbiB7CiAgYmFja2dyb3VuZDogdmFyKC0tcHJlbWl1bS1ncmF5KTsKfQoKLnByZW1pdW0tZ2FsbGVyeSAud3BiX2dhbGxlcnkgewogIGJvcmRlci1yYWRpdXM6IDE4cHg7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKICBib3gtc2hhZG93OiAwIDE0cHggMzJweCByZ2JhKDE1LCAyMywgNDIsIDAuMTUpOwp9CgoucHJlbWl1bS1wYWdlIC52Y19idG4zLAoucHJlbWl1bS1wYWdlIC53cGJfYnV0dG9uLAoucHJlbWl1bS1wYWdlIC5idXR0b24gewogIGJhY2tncm91bmQ6IHZhcigtLXByZW1pdW0tYmx1ZSkgIWltcG9ydGFudDsKICBjb2xvcjogI2ZmZiAhaW1wb3J0YW50OwogIGJvcmRlci1yYWRpdXM6IDEwcHggIWltcG9ydGFudDsKICBwYWRkaW5nOiAxMnB4IDI4cHggIWltcG9ydGFudDsKICBmb250LXdlaWdodDogNjAwOwogIGJveC1zaGFkb3c6IDAgMTBweCAyNHB4IHJnYmEoMzcsIDk5LCAyMzUsIDAuMjIpOwp9CgouZG93bmxvYWQtc2VjdGlvbiB7CiAgYmFja2dyb3VuZDogI2ZmZmZmZiAhaW1wb3J0YW50OwogIGJvcmRlci1yYWRpdXM6IDIycHg7CiAgYm94LXNoYWRvdzogMCAyMHB4IDQwcHggcmdiYSgxNSwgMjMsIDQyLCAwLjEyKTsKICBwYWRkaW5nOiAzNnB4IDI0cHg7Cn0KCi5jb21wYXJlLWNhcmQtLWdvbGQgeyBiYWNrZ3JvdW5kOiAjZmZmNmQ4ICFpbXBvcnRhbnQ7IH0KLmNvbXBhcmUtY2FyZC0tZ3JheSB7IGJhY2tncm91bmQ6ICNmM2Y0ZjYgIWltcG9ydGFudDsgfQoKLnByZW1pdW0tYmFkZ2UgewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBiYWNrZ3JvdW5kOiAjMTExODI3OwogIGNvbG9yOiAjZmZmOwogIGZvbnQtc2l6ZTogMTJweDsKICBsZXR0ZXItc3BhY2luZzogMXB4OwogIHBhZGRpbmc6IDZweCAxMnB4OwogIGJvcmRlci1yYWRpdXM6IDk5OXB4OwogIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cn0K[/vc_raw_html]
+<style>
+
+:root {
+  --premium-navy: #111827;
+  --premium-gray: #f6f7fb;
+  --premium-blue: #2563eb;
+  --premium-gold: #f5c451;
+  --premium-ink: #1f2937;
+}
+.premium-page {
+  font-family: "Inter", Arial, sans-serif;
+  color: var(--premium-ink);
+  line-height: 1.7;
+}
+.premium-page h1,
+.premium-page h2,
+.premium-page h3,
+.premium-page h4 {
+  font-family: "Playfair Display", Georgia, serif;
+  color: var(--premium-navy);
+  letter-spacing: -0.2px;
+}
+.premium-page a { color: var(--premium-blue); text-decoration: none; }
+.premium-page a:hover { text-decoration: underline; }
+
+.premium-page .vc_row,
+.premium-page .vc_section {
+  padding-top: 56px;
+  padding-bottom: 56px;
+}
+
+.premium-hero {
+  background: linear-gradient(180deg, #ffffff 0%, #f6f7fb 100%);
+}
+.premium-hero h1 { font-size: 52px; margin-bottom: 10px; }
+
+.premium-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 28px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+}
+
+.premium-section {
+  background: var(--premium-gray);
+}
+
+.premium-gallery .wpb_gallery {
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.15);
+}
+
+.premium-page .vc_btn3,
+.premium-page .wpb_button,
+.premium-page .button {
+  background: var(--premium-blue) !important;
+  color: #fff !important;
+  border-radius: 10px !important;
+  padding: 12px 28px !important;
+  font-weight: 600;
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.22);
+}
+
+.download-section {
+  background: #ffffff !important;
+  border-radius: 22px;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.12);
+  padding: 36px 24px;
+}
+
+.compare-card--gold { background: #fff6d8 !important; }
+.compare-card--gray { background: #f3f4f6 !important; }
+
+.premium-badge {
+  display: inline-block;
+  background: #111827;
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  text-transform: uppercase;
+}
+
+</style>
 
 <h1 style="text-align: center;"><strong>Gazeta Weselna darmowy szablon</strong></h1>
 <p>[vc_btn title="Pobierz darmowy szablon" color="danger" align="center" css=".vc_custom_1769990000001{padding-top: 16px !important;padding-bottom: 10px !important;}" link="url:%23pobierz"]</p>
