@@ -30,10 +30,29 @@
   padding-bottom: 56px;
 }
 
+.premium-page .wpb_wrapper > h2 {
+  position: relative;
+  padding-bottom: 12px;
+  margin-bottom: 18px;
+}
+.premium-page .wpb_wrapper > h2::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 3px;
+  margin: 12px auto 0;
+  background: var(--premium-blue);
+  border-radius: 999px;
+}
+
 .premium-hero {
   background: linear-gradient(180deg, #ffffff 0%, #f6f7fb 100%);
 }
 .premium-hero h1 { font-size: 52px; margin-bottom: 10px; }
+.premium-hero .vc_btn3 {
+  padding: 14px 34px !important;
+  font-size: 16px;
+}
 
 .premium-card {
   background: #ffffff;
@@ -42,9 +61,27 @@
   border: 1px solid #e5e7eb;
   box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
 }
+.premium-card--soft {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 32px;
+  border: 1px solid #eef2f7;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
 
 .premium-section {
   background: var(--premium-gray);
+}
+.premium-section .vc_column-inner {
+  padding: 24px 18px;
+}
+.intro-section .vc_column-inner,
+.services-section .vc_column-inner,
+.invitations-section .vc_column-inner {
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #e8eef6;
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.08);
 }
 
 .premium-gallery .wpb_gallery {
@@ -70,9 +107,38 @@
   box-shadow: 0 20px 40px rgba(15, 23, 42, 0.12);
   padding: 36px 24px;
 }
+.download-section .wpb_wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.download-wrapper {
+  background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
+}
 
 .compare-card--gold { background: #fff6d8 !important; }
 .compare-card--gray { background: #f3f4f6 !important; }
+.compare-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 16px;
+}
+.compare-section li {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 12px;
+}
+.compare-section li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--premium-blue);
+  font-weight: 700;
+}
+.compare-section .compare-card--gray li::before {
+  content: "•";
+  color: #6b7280;
+}
 
 .premium-badge {
   display: inline-block;
