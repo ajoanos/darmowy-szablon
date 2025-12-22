@@ -13,6 +13,7 @@
 <div class="premium-float" style="margin-top: -20px;">[/vc_column_text][vc_single_image image="66555" img_size="full" alignment="center" css="" eltd_css_animation=""][vc_column_text]</div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="66585" img_size="full" alignment="center" css="" eltd_css_animation="element_from_bottom"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft intro-section"][vc_column][vc_column_text]
 <div class="landing-divider premium-fade-in">Więcej niż atrakcja</div>
+<span class="premium-badge" style="display: block; text-align: center; margin-bottom: 12px;">Najważniejsze</span>
 <h2 style="text-align: center; margin-bottom: 40px;">Gazeta Weselna - <span class="premium-text-gold">Wasza Historia</span> na Papierze</h2>
 [/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/2"][vc_column_text]
 <div class="premium-card premium-slide-up" style="padding: 30px; height: 100%;">
@@ -34,6 +35,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 </div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light template-preview"][vc_column width="1/2"][vc_column_text css=".vc_custom_1715275328622{padding-bottom: 30px !important;}"]
 <div class="landing-divider premium-fade-in">Podgląd Szablonu</div>
+<span class="premium-badge" style="display: block; text-align: center; margin-bottom: 12px;">Podgląd</span>
 <h2 style="text-align: center;">Zobacz Jak Wygląda <span class="premium-text-gold">Perfekcja</span></h2>
 [/vc_column_text][vc_column_text css=""]
 <h4 style="text-align: center; font-weight: 400; color: var(--premium-navy-light);">Ponad 30 Stron Gotowych do Personalizacji</h4>
