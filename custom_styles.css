@@ -520,6 +520,13 @@ body .comparison-table-row {
   line-height: 1.5 !important;
 }
 
+body .premium-card ul,
+body .comparison-table-row {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+}
+
 body .premium-card ul li:last-child {
   border-bottom: none !important;
 }
