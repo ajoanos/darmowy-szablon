@@ -115,14 +115,24 @@ body .premium-section--spotlight {
 
 body .premium-section--framed {
   position: relative !important;
-  box-shadow:
-    inset 0 1px 0 rgba(15, 23, 42, 0.12),
-    inset 0 -1px 0 rgba(15, 23, 42, 0.12) !important;
 }
 
 body .premium-section--framed::before,
 body .premium-section--framed::after {
-  content: none !important;
+  content: "" !important;
+  position: absolute !important;
+  left: 10% !important;
+  right: 10% !important;
+  height: 1px !important;
+  background: linear-gradient(90deg, transparent, rgba(15, 23, 42, 0.15), transparent) !important;
+}
+
+body .premium-section--framed::before {
+  top: 0 !important;
+}
+
+body .premium-section--framed::after {
+  bottom: 0 !important;
 }
 
 body .premium-section--prose p,
@@ -402,52 +412,13 @@ body .landing-divider {
   font-size: 1.2rem !important;
 }
 
-body .landing-divider::before {
-  content: "•";
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.95em;
-  line-height: 1;
-  color: currentColor;
-  background-image: linear-gradient(currentColor, currentColor);
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: 50px 1px;
-  padding-left: 60px;
-  margin-right: 20px;
-}
-
+body .landing-divider::before,
 body .landing-divider::after {
   content: "";
   height: 1px;
-  background-color: currentColor;
+  background-color: #e5e7eb;
   width: 50px;
-  margin-left: 20px;
-}
-
-body .premium-mini-divider {
-  padding: 10px 0 !important;
-}
-
-body .premium-mini-divider .landing-divider {
-  margin: 70px 0 !important;
-  font-size: 0 !important;
-  color: rgba(197, 160, 89, 0.6) !important;
-}
-
-body .premium-mini-divider .landing-divider::before {
-  content: "" !important;
-  padding-left: 0 !important;
-  margin-right: 0 !important;
-  width: 120px !important;
-  height: 2px !important;
-  background-size: 120px 2px !important;
-}
-
-body .premium-mini-divider .landing-divider::after {
-  width: 120px !important;
-  height: 2px !important;
+  margin: 0 20px;
 }
 
 /* 
@@ -651,11 +622,6 @@ body .premium-card h4 {
   body .landing-divider::after {
     width: 30px !important;
     margin: 0 10px !important;
-  }
-
-  body .landing-divider::before {
-    background-size: 30px 1px !important;
-    padding-left: 40px !important;
   }
 
   /* Fix comparison font size on mobile if needed */
