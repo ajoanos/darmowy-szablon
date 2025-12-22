@@ -120,7 +120,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed compare-section"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="in_grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed compare-section"]
 [vc_column width="1/2"]
 [vc_column_text]
 <div class="premium-card premium-slide-up" style="border: 2px solid var(--premium-gold); transform: scale(1.02); z-index: 10;">
