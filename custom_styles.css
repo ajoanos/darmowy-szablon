@@ -534,6 +534,12 @@ body .landing-divider::after {
   margin: 0 20px;
 }
 
+body .intro-section .landing-divider::before,
+body .intro-section .landing-divider::after {
+  content: none;
+  display: none;
+}
+
 /* 
  * DOWNLOAD SECTION 
  * Glassmorphism, Dark Background, White Text
