@@ -96,6 +96,11 @@ body .premium-bg-navy {
   color: white !important;
 }
 
+body .premium-section.premium-bg-navy,
+body .premium-bg-navy[class*="premium-section"] {
+  background: linear-gradient(145deg, #0b1324 0%, #111827 55%, #0f172a 100%) !important;
+}
+
 body .premium-bg-offwhite {
   background: linear-gradient(180deg, #f7f4ee 0%, #ffffff 100%) !important;
 }
@@ -177,6 +182,41 @@ body .premium-section--offwhite {
 
 body .premium-section--accent {
   background: linear-gradient(180deg, rgba(197, 160, 89, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--soft {
+  background: linear-gradient(0deg, #f9f6ef 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--light {
+  background: linear-gradient(0deg, #f2f4f7 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--white {
+  background: linear-gradient(0deg, #ffffff 0%, #f9fafb 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--offwhite {
+  background: linear-gradient(0deg, #f7f4ee 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--pattern {
+  background-color: var(--premium-offwhite) !important;
+  background-image:
+    linear-gradient(0deg, rgba(247, 244, 238, 0.9) 0%, rgba(255, 255, 255, 0.95) 100%),
+    radial-gradient(circle at 20% 20%, rgba(197, 160, 89, 0.08), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(15, 23, 42, 0.06), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(197, 160, 89, 0.06), transparent 35%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--spotlight {
+  background:
+    radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%),
+    linear-gradient(0deg, #fdfaf4 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--accent {
+  background: linear-gradient(0deg, rgba(197, 160, 89, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
 }
 
 body .download-wrapper {
