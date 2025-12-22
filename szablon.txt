@@ -198,7 +198,15 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 <strong>Memy:</strong> Dodajcie do swojej gazety weselnej ciekawe memy, które rozbawią Waszych gości. Zobaczycie, że zdadzą egzamin. W szablonie mamy ich kilkadziesiąt.
 
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" background_color="#111827" padding_top="80" css_animation="" box_shadow_on_row="no" el_class="premium-section premium-bg-navy download-wrapper" el_id="pobierz"][vc_column css=".vc_custom_1762105858845{background-color: transparent !important;}" el_class="download-section"][vc_column_text css=".vc_custom_1760951393141{padding-top: 10px !important;padding-bottom: 30px !important;}"]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" background_color="#111827" padding_top="80" css_animation="" box_shadow_on_row="no" el_class="premium-section premium-bg-navy download-wrapper" el_id="pobierz"][vc_column css=".vc_custom_1762105858845{background-color: transparent !important;}" el_class="download-section"][vc_column_text css=""]
+<div style="text-align: center; color: white; opacity: 0.8;">
+<h3 style="color: white; font-size: 1.5rem;">❤️ Wesprzyj Zwierzaki</h3>
+<p style="max-width: 600px; margin: 10px auto;">Szablon jest darmowy, ale jeśli chcesz podziękować, możesz wpłacić dobrowolną kwotę. 100% środków przekazujemy na schroniska dla zwierzaków.</p>
+
+</div>
+[/vc_column_text][vc_column_text css=""]
+<div style="margin-top: 20px; display: flex; justify-content: center;">[p24_donation]</div>
+[/vc_column_text][vc_column_text css=".vc_custom_1760951393141{padding-top: 10px !important;padding-bottom: 30px !important;}"]
 <div style="max-width: 700px; margin: 0 auto; text-align: center; color: white;">
 <div class="landing-divider" style="color: rgba(255,255,255,0.3);">Pobierz Teraz</div>
 <h2 style="text-align: center; color: white; margin-bottom: 20px;">Rozpocznij Przygodę z <span class="premium-text-gold">Gazetą Weselną</span></h2>
@@ -213,15 +221,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 <div style="background: #f9fafb; padding: 20px; border-radius: 10px; margin-bottom: 30px;">[email-subscribers-form id="2"]</div>
 <div style="font-size: 0.9rem; opacity: 0.6; margin-top: 20px;">🔒 Twój email jest bezpieczny. Zero spamu.</div>
 </div>
-[/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_empty_space height="60px" image_repeat="no-repeat"][vc_column_text css=""]
-<div style="text-align: center; color: white; opacity: 0.8;">
-<h3 style="color: white; font-size: 1.5rem;">❤️ Wesprzyj Zwierzaki</h3>
-<p style="max-width: 600px; margin: 10px auto;">Szablon jest darmowy, ale jeśli chcesz podziękować, możesz wpłacić dobrowolną kwotę. 100% środków przekazujemy na schroniska.</p>
-
-</div>
-[/vc_column_text][vc_column_text css=""]
-<div style="margin-top: 20px; display: flex; justify-content: center;">[p24_donation]</div>
-[/vc_column_text][vc_empty_space image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_column_text css=""]
+[/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_empty_space height="60px" image_repeat="no-repeat"][vc_empty_space image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_column_text css=""]
 <p style="text-align: center; color: rgba(255,255,255,0.4); font-size: 0.85rem;"><em>Właścicielem szablonu jest allemedia.pl. Wykorzystanie komercyjne zabronione.</em></p>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-section faq-section"][vc_column css=".vc_custom_1694765376221{padding-top: 30px !important;}"][vc_column_text css=".vc_custom_1709055388252{padding-bottom: 20px !important;}"]
 <h3><strong>Gazeta weselna - Pytania i odpowiedzi odnośnie</strong></h3>
