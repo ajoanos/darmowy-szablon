@@ -100,6 +100,56 @@ body .premium-section {
   position: relative !important;
 }
 
+/* Section Variants - Visual Rhythm */
+body .premium-section--pattern {
+  background-color: var(--premium-offwhite) !important;
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(197, 160, 89, 0.08), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(15, 23, 42, 0.06), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(197, 160, 89, 0.06), transparent 35%) !important;
+}
+
+body .premium-section--spotlight {
+  background: radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%) !important;
+}
+
+body .premium-section--framed {
+  position: relative !important;
+}
+
+body .premium-section--framed::before,
+body .premium-section--framed::after {
+  content: "" !important;
+  position: absolute !important;
+  left: 10% !important;
+  right: 10% !important;
+  height: 1px !important;
+  background: linear-gradient(90deg, transparent, rgba(15, 23, 42, 0.15), transparent) !important;
+}
+
+body .premium-section--framed::before {
+  top: 0 !important;
+}
+
+body .premium-section--framed::after {
+  bottom: 0 !important;
+}
+
+body .premium-section--prose p,
+body .premium-section--prose ul {
+  max-width: 820px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+body .premium-section--prose ul {
+  padding-left: 1.2rem !important;
+}
+
+body .premium-section--prose li {
+  margin-bottom: 8px !important;
+}
+
 /* Section Variants - Premium Rhythm */
 body .premium-section--soft {
   background: var(--premium-offwhite) !important;
