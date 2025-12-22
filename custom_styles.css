@@ -41,6 +41,11 @@
    GLOBAL TYPOGRAPHY & RESETS (High Specificity)
    ========================================= */
 
+html,
+body {
+  overflow-x: hidden !important;
+}
+
 body .premium-page {
   font-family: 'Manrope', sans-serif !important;
   color: var(--premium-navy-light) !important;
