@@ -152,6 +152,10 @@ body .social-proof-section .premium-text-gold {
   color: var(--premium-gold) !important;
 }
 
+body .premium-bg-navy a {
+  color: var(--premium-gold-light) !important;
+}
+
 /* Buttons - "Sunset Glass" Premium Style */
 body .premium-page .vc_btn3,
 body .premium-page .wpb_button,
