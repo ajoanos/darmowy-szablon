@@ -100,6 +100,36 @@ body .premium-section {
   position: relative !important;
 }
 
+/* Section Variants - Premium Rhythm */
+body .premium-section--soft {
+  background: var(--premium-offwhite) !important;
+}
+
+body .premium-section--light {
+  background: var(--premium-gray-soft) !important;
+}
+
+body .premium-section--white {
+  background: var(--premium-white) !important;
+}
+
+body .premium-section--offwhite {
+  background: var(--premium-offwhite) !important;
+}
+
+body .premium-section--accent {
+  background: linear-gradient(180deg, rgba(197, 160, 89, 0.08) 0%, rgba(255, 255, 255, 0) 100%) !important;
+}
+
+body .premium-section--offers .landing-divider,
+body .premium-section--offers h2 {
+  margin-bottom: 16px !important;
+}
+
+body .premium-offer-split {
+  margin-top: 10px !important;
+}
+
 /* =========================================
    COMPONENTS
    ========================================= */
@@ -120,6 +150,10 @@ body .social-proof-section p {
 body .premium-bg-navy .premium-text-gold,
 body .social-proof-section .premium-text-gold {
   color: var(--premium-gold) !important;
+}
+
+body .premium-bg-navy a {
+  color: var(--premium-gold-light) !important;
 }
 
 /* Buttons - "Sunset Glass" Premium Style */
@@ -193,6 +227,16 @@ body .premium-page .premium-btn .vc_btn3::after {
   animation: premiumShimmer 3s infinite ease-in-out !important;
   /* Continuous luxurious shimmering */
   pointer-events: none !important;
+}
+
+/* Disable shimmer on touch devices to avoid perceived color change on scroll */
+@media (hover: none), (pointer: coarse) {
+  body .premium-page .vc_btn3::after,
+  body .premium-page .wpb_button::after,
+  body .premium-page a.premium-btn::after,
+  body .premium-page .premium-btn .vc_btn3::after {
+    animation: none !important;
+  }
 }
 
 body .premium-page .vc_btn3:hover,
