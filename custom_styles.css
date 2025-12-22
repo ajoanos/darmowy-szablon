@@ -92,12 +92,17 @@ body .premium-text-gold {
 }
 
 body .premium-bg-navy {
-  background-color: var(--premium-navy) !important;
+  background: linear-gradient(145deg, #0f172a 0%, #111827 45%, #0b1324 100%) !important;
   color: white !important;
 }
 
+body .premium-section.premium-bg-navy,
+body .premium-bg-navy[class*="premium-section"] {
+  background: linear-gradient(145deg, #0b1324 0%, #111827 55%, #0f172a 100%) !important;
+}
+
 body .premium-bg-offwhite {
-  background-color: var(--premium-offwhite) !important;
+  background: linear-gradient(180deg, #f7f4ee 0%, #ffffff 100%) !important;
 }
 
 body .premium-section {
@@ -109,13 +114,16 @@ body .premium-section {
 body .premium-section--pattern {
   background-color: var(--premium-offwhite) !important;
   background-image:
+    linear-gradient(180deg, rgba(247, 244, 238, 0.9) 0%, rgba(255, 255, 255, 0.95) 100%),
     radial-gradient(circle at 20% 20%, rgba(197, 160, 89, 0.08), transparent 35%),
     radial-gradient(circle at 80% 0%, rgba(15, 23, 42, 0.06), transparent 40%),
     radial-gradient(circle at 80% 80%, rgba(197, 160, 89, 0.06), transparent 35%) !important;
 }
 
 body .premium-section--spotlight {
-  background: radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%) !important;
+  background:
+    radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%),
+    linear-gradient(180deg, #fdfaf4 0%, #ffffff 100%) !important;
 }
 
 body .premium-section--framed {
@@ -157,23 +165,114 @@ body .premium-section--prose li {
 
 /* Section Variants - Premium Rhythm */
 body .premium-section--soft {
-  background: var(--premium-offwhite) !important;
+  background: linear-gradient(180deg, #f9f6ef 0%, #ffffff 100%) !important;
 }
 
 body .premium-section--light {
-  background: var(--premium-gray-soft) !important;
+  background: linear-gradient(180deg, #f2f4f7 0%, #ffffff 100%) !important;
 }
 
 body .premium-section--white {
-  background: var(--premium-white) !important;
+  background: linear-gradient(180deg, #ffffff 0%, #f9fafb 100%) !important;
 }
 
 body .premium-section--offwhite {
-  background: var(--premium-offwhite) !important;
+  background: linear-gradient(180deg, #f7f4ee 0%, #ffffff 100%) !important;
 }
 
 body .premium-section--accent {
-  background: linear-gradient(180deg, rgba(197, 160, 89, 0.08) 0%, rgba(255, 255, 255, 0) 100%) !important;
+  background: linear-gradient(180deg, rgba(197, 160, 89, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
+}
+
+body .social-proof-section,
+body .shop-section,
+body .download-wrapper,
+body .premium-bg-navy,
+body .premium-section.premium-bg-navy,
+body .premium-bg-navy[class*="premium-section"],
+body .premium-bg-navy.vc_row,
+body .premium-bg-navy.vc_row.vc_row-has-fill {
+  background-color: #0f172a !important;
+  background-image: linear-gradient(145deg, #0f172a 0%, #111827 45%, #0b1324 100%) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+body .premium-bg-navy > .vc_column > .vc_column-inner,
+body .social-proof-section > .vc_column > .vc_column-inner,
+body .shop-section > .vc_column > .vc_column-inner,
+body .download-wrapper > .vc_column > .vc_column-inner {
+  background: transparent !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--soft {
+  background: linear-gradient(0deg, #f9f6ef 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--light {
+  background: linear-gradient(0deg, #f2f4f7 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--white {
+  background: linear-gradient(0deg, #ffffff 0%, #f9fafb 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--offwhite {
+  background: linear-gradient(0deg, #f7f4ee 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--pattern {
+  background-color: var(--premium-offwhite) !important;
+  background-image:
+    linear-gradient(0deg, rgba(247, 244, 238, 0.9) 0%, rgba(255, 255, 255, 0.95) 100%),
+    radial-gradient(circle at 20% 20%, rgba(197, 160, 89, 0.08), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(15, 23, 42, 0.06), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(197, 160, 89, 0.06), transparent 35%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--spotlight {
+  background:
+    radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%),
+    linear-gradient(0deg, #fdfaf4 0%, #ffffff 100%) !important;
+}
+
+body :is(.premium-section--soft, .premium-section--light, .premium-section--white, .premium-section--offwhite, .premium-section--pattern, .premium-section--spotlight, .premium-section--accent) + .premium-section--accent {
+  background: linear-gradient(0deg, rgba(197, 160, 89, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
+}
+
+body .premium-section--invert.premium-section--soft {
+  background: linear-gradient(0deg, #f9f6ef 0%, #ffffff 100%) !important;
+}
+
+body .premium-section--invert.premium-section--light {
+  background: linear-gradient(0deg, #f2f4f7 0%, #ffffff 100%) !important;
+}
+
+body .premium-section--invert.premium-section--white {
+  background: linear-gradient(0deg, #ffffff 0%, #f9fafb 100%) !important;
+}
+
+body .premium-section--invert.premium-section--offwhite {
+  background: linear-gradient(0deg, #f7f4ee 0%, #ffffff 100%) !important;
+}
+
+body .premium-section--invert.premium-section--accent {
+  background: linear-gradient(0deg, rgba(197, 160, 89, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%) !important;
+}
+
+body .premium-section--invert.premium-section--pattern {
+  background:
+    linear-gradient(0deg, rgba(247, 244, 238, 0.9) 0%, rgba(255, 255, 255, 0.95) 100%),
+    radial-gradient(circle at 20% 20%, rgba(197, 160, 89, 0.08), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(15, 23, 42, 0.06), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(197, 160, 89, 0.06), transparent 35%) !important;
+  background-color: var(--premium-offwhite) !important;
+}
+
+body .premium-section--invert.premium-section--spotlight {
+  background:
+    radial-gradient(circle at 50% -20%, rgba(197, 160, 89, 0.12), transparent 55%),
+    linear-gradient(0deg, #fdfaf4 0%, #ffffff 100%) !important;
 }
 
 body .premium-section--offers .landing-divider,
