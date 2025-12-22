@@ -402,13 +402,28 @@ body .landing-divider {
   font-size: 1.2rem !important;
 }
 
-body .landing-divider::before,
+body .landing-divider::before {
+  content: "•";
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95em;
+  line-height: 1;
+  color: currentColor;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 50px 1px;
+  padding-left: 60px;
+  margin-right: 20px;
+}
+
 body .landing-divider::after {
   content: "";
   height: 1px;
-  background-color: #e5e7eb;
+  background-color: currentColor;
   width: 50px;
-  margin: 0 20px;
+  margin-left: 20px;
 }
 
 /* 
@@ -612,6 +627,11 @@ body .premium-card h4 {
   body .landing-divider::after {
     width: 30px !important;
     margin: 0 10px !important;
+  }
+
+  body .landing-divider::before {
+    background-size: 30px 1px !important;
+    padding-left: 40px !important;
   }
 
   /* Fix comparison font size on mobile if needed */
