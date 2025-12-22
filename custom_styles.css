@@ -225,6 +225,16 @@ body .premium-page .premium-btn .vc_btn3::after {
   pointer-events: none !important;
 }
 
+/* Disable shimmer on touch devices to avoid perceived color change on scroll */
+@media (hover: none), (pointer: coarse) {
+  body .premium-page .vc_btn3::after,
+  body .premium-page .wpb_button::after,
+  body .premium-page a.premium-btn::after,
+  body .premium-page .premium-btn .vc_btn3::after {
+    animation: none !important;
+  }
+}
+
 body .premium-page .vc_btn3:hover,
 body .premium-page .wpb_button:hover,
 body .premium-page a.premium-btn:hover,
