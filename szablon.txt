@@ -51,7 +51,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--offers"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--spotlight premium-section--offers"]
 [vc_column]
 [vc_column_text css=".vc_custom_1766248575223{padding-top: 30px !important;padding-bottom: 30px !important;}"]
 <h2 style="text-align: center;"><strong>Poznaj co jeszcze mamy przygotowane <span class="premium-text-gold">dla Was</span></strong></h2>
@@ -76,7 +76,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--white services-section"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed services-section"]
 [vc_column width="1/2"]
 [vc_column_text]
 <div class="landing-divider">Dla Zapracowanych</div>
@@ -90,7 +90,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--white invitations-section"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed invitations-section"]
 [vc_column width="1/2"]
 [vc_single_image image="67346" img_size="full" css="" eltd_css_animation=""]
 [/vc_column]
@@ -104,7 +104,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft print-section"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern print-section"]
 [vc_column]
 [vc_column_text]
 <div style="text-align: center; max-width: 800px; margin: 0 auto;">
@@ -120,7 +120,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light compare-section"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed compare-section"]
 [vc_column width="1/2"]
 [vc_column_text]
 <div class="premium-card premium-slide-up" style="border: 2px solid var(--premium-gold); transform: scale(1.02); z-index: 10;">
@@ -175,13 +175,13 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--spotlight"]
 [vc_column]
 [vc_single_image image="59852" img_size="full" alignment="center" eltd_css_animation="element_from_bottom"]
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light"]
 [vc_column width="1/2"]
 [vc_single_image image="59944" img_size="full" alignment="center" eltd_css_animation="element_from_bottom"]
 [/vc_column]
@@ -204,7 +204,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--pattern premium-section--prose"]
 [vc_column width="1/2"]
 [vc_single_image image="66557" img_size="full" css="" eltd_css_animation="element_from_fade"]
 [/vc_column]
@@ -237,7 +237,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--white"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--white premium-section--spotlight premium-section--framed"]
 [vc_column]
 [vc_column_text]
 <h2 style="text-align: center;"><strong><span style="color: #ff0000;">NOWOŚĆ</span></strong></h2>
@@ -252,13 +252,13 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light"]
 [vc_column]
 [vc_single_image image="60659" img_size="full" alignment="center" eltd_css_animation="element_from_fade"]
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--white"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed"]
 [vc_column width="1/2"]
 [vc_column_text css=".vc_custom_1766314131148{padding-top: 30px !important;}"]
 <h2 style="text-align: center;"><strong>Gazeta weselna - <span class="premium-text-gold">dołącz do naszej społeczności</span></strong></h2>
@@ -274,7 +274,7 @@ Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopen
 [/vc_column]
 [/vc_row]
 
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft"]
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern premium-section--prose"]
 [vc_column]
 [vc_single_image image="63316" img_size="full" alignment="center" css=".vc_custom_1713809423380{padding-bottom: 30px !important;}" eltd_css_animation=""]
 [vc_column_text css=".vc_custom_1766314147763{padding-top: 30px !important;}"]
