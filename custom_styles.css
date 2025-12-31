@@ -499,6 +499,15 @@ body .premium-hero {
   /* Reduced from 120px */
 }
 
+body .premium-hero::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  pointer-events: none !important;
+}
+
 body .premium-hero-content {
   max-width: 560px !important;
   margin: 0 !important;
@@ -864,6 +873,21 @@ body .premium-card h4 {
 @media (max-width: 768px) {
   body .premium-hero {
     padding: 60px 0 !important;
+    background-position: 80% center !important;
+  }
+
+  body .premium-hero-content {
+    margin: 0 auto !important;
+    text-align: center !important;
+  }
+
+  body .premium-hero-actions {
+    justify-content: center !important;
+  }
+
+  body .premium-hero::before {
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
   }
 
   body .premium-hero-content {
