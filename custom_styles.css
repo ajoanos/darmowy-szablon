@@ -808,6 +808,13 @@ body .premium-card h4 {
     overflow: visible !important;
   }
 
+  body .intro-section .section_inner {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
   body .premium-card {
     padding: 25px !important;
     border-radius: 20px !important;
