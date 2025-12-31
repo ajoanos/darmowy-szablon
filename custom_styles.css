@@ -808,12 +808,36 @@ body .premium-card h4 {
     overflow: visible !important;
   }
 
+  body .intro-section .section_inner {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
   body .premium-card {
     padding: 25px !important;
     border-radius: 20px !important;
     margin: 0 15px 30px 15px !important;
     /* 15px side margins, 30px bottom */
     width: auto !important;
+  }
+
+  body .intro-section .vc_row,
+  body .intro-section .vc_row_inner {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  body .intro-section .vc_column_container,
+  body .intro-section .vc_column-inner {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  body .intro-section .premium-card {
+    margin: 0 10px 24px !important;
+    width: calc(100% - 20px) !important;
   }
 
   body .premium-btn {
