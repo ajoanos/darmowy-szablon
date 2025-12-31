@@ -363,6 +363,28 @@ body .premium-page .premium-btn .vc_btn3 {
   overflow: hidden !important;
 }
 
+body .premium-hero .vc_btn3,
+body .premium-hero .wpb_button,
+body .premium-hero a.premium-btn,
+body .premium-hero .premium-btn .vc_btn3 {
+  border: 1.5px solid #0f172a !important;
+  color: #0f172a !important;
+  box-shadow:
+    0 12px 25px rgba(15, 23, 42, 0.25),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.2) !important;
+  text-shadow: none !important;
+}
+
+body .premium-hero .vc_btn3:hover,
+body .premium-hero .wpb_button:hover,
+body .premium-hero a.premium-btn:hover,
+body .premium-hero .premium-btn .vc_btn3:hover {
+  color: #0f172a !important;
+  box-shadow:
+    0 18px 35px rgba(15, 23, 42, 0.3),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.35) !important;
+}
+
 /* RESET container styles to prevent double-button effect */
 div.premium-btn,
 .vc_btn3-container.premium-btn {
