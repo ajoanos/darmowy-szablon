@@ -880,7 +880,7 @@ body .premium-card h4 {
     background-image:
       linear-gradient(90deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.85) 45%, rgba(255, 255, 255, 0.2) 100%),
       url("https://allemedia.pl/wp-content/uploads/2025/12/01-Gazeta-weselna-darmowy-szablon-i-druk-scaled.jpg") !important;
-    background-position: 80% center !important;
+    background-position: 50% 30% !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
@@ -897,7 +897,7 @@ body .premium-card h4 {
   body .premium-hero::before {
     background: url("https://allemedia.pl/wp-content/uploads/2025/12/01-Gazeta-weselna-darmowy-szablon-i-druk-scaled.jpg") !important;
     background-size: cover !important;
-    background-position: 80% center !important;
+    background-position: 50% 30% !important;
     background-repeat: no-repeat !important;
     filter: blur(34px);
     opacity: 0.65;
