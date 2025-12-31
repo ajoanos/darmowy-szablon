@@ -582,11 +582,11 @@ body .download-section .premium-card:hover {
 /* Mobile Optimization for Download Card */
 @media (max-width: 768px) {
   body .download-section .premium-card {
-    width: calc(100% - 60px) !important;
+    width: calc(100% - 45px) !important;
     /* 30px side margins on mobile */
     box-shadow: 0 11px 25px rgba(0, 0, 0, 0.3) !important;
     /* Tighter shadow for mobile */
-    padding: 30px 20px !important;
+    padding: 50px 20px !important;
   }
 
   body .download-section .premium-card:hover {
@@ -802,22 +802,9 @@ body .premium-card h4 {
   }
 
   /* Fix for Shadow Clipping & Centering in Intro Section */
-  body .intro-section.vc_row {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-
   body .intro-section .vc_row,
   body .intro-section .vc_column_container,
   body .intro-section .vc_column-inner {
-    overflow: visible !important;
-  }
-
-  body .intro-section .section_inner {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    width: 100% !important;
-    max-width: 100% !important;
     overflow: visible !important;
   }
 
@@ -826,24 +813,7 @@ body .premium-card h4 {
     border-radius: 20px !important;
     margin: 0 15px 30px 15px !important;
     /* 15px side margins, 30px bottom */
-    width: auto !important;
-  }
-
-  body .intro-section .vc_row,
-  body .intro-section .vc_row_inner {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-
-  body .intro-section .vc_column_container,
-  body .intro-section .vc_column-inner {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  body .intro-section .premium-card {
-    margin: 0 5px 24px !important;
-    width: calc(100% - 10px) !important;
+    width: 85% !important;
   }
 
   body .premium-btn {
