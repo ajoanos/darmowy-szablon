@@ -1,230 +1,273 @@
-<p>[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][/vc_column][vc_column][vc_column_text css=".vc_custom_1767088526860{padding-top: 40px !important;}"]</p>
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][/vc_column][vc_column][vc_column_text css=".vc_custom_1767088526860{padding-top: 40px !important;}"]
 <div class="premium-hero-content" style="max-width: 900px; margin: 0 auto; text-align: center; padding-bottom: 40px;">
 <div class="premium-fade-in">
 <h1>Gazeta Weselna Darmowy Szablon</h1>
-<p>&nbsp;</p>
+&nbsp;
 <p style="font-size: 1.25rem; color: var(--premium-navy-light); opacity: 0.9; max-width: 600px; margin: 20px auto 30px;">Poznaj darmowy szablon Gazety Weselnej w Canva, który sami edytujecie w kilka chwil. Zaskocz swoich gości wyjątkową atrakcją weselną.</p>
+
 </div>
 </div>
-<p>[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_btn title="Pobierz Darmowy Szablon" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:%23pobierz" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" padding_top="30px" css_animation="" box_shadow_on_row="no" el_class="premium-fade-in"][vc_column_inner offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1766932974710{padding-top: 60px !important;}"]</p>
+[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_btn title="Pobierz Darmowy Szablon" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:%23pobierz" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" padding_top="30px" css_animation="" box_shadow_on_row="no" el_class="premium-fade-in"][vc_column_inner offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1766932974710{padding-top: 60px !important;}"]
 <div class="premium-float" style="margin-top: -20px;"></div>
-<p>[/vc_column_text][vc_single_image image="67589" img_size="full" alignment="center" css="" eltd_css_animation=""][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="67591" img_size="full" alignment="center" css=".vc_custom_1767100386215{padding-top: 30px !important;padding-bottom: 30px !important;}" eltd_css_animation="element_from_bottom"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]</p>
+[/vc_column_text][vc_single_image image="67589" img_size="full" alignment="center" css="" eltd_css_animation=""][vc_column_text]
+
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="67591" img_size="full" alignment="center" css=".vc_custom_1767100386215{padding-top: 30px !important;padding-bottom: 30px !important;}" eltd_css_animation="element_from_bottom"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]
 <div class="landing-divider">Więcej niż pamiątka</div>
 <h2 style="text-align: center;"><strong>Gazeta weselna - </strong><span class="premium-text-gold"><strong>Wyjątkowa atrakcja</strong></span><strong> na Waszym weselu</strong></h2>
-<p>[/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/2"][vc_column_text css=""]</p>
+[/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/2"][vc_column_text css=""]
 <div class="premium-card" style="height: 100%;">
-<div style="font-size: 3rem; margin-bottom: 20px;">&#x1f4d6;</div>
+<div style="font-size: 3rem; margin-bottom: 20px;">📖</div>
 <h3>Opowiedzcie swoją historię</h3>
-<p>Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i przekażecie ważne organizacyjne sprawy weselne w niecodzienny sposób. Niezliczone możliwości konfiguracji <a href="https://allemedia.pl/gazeta-slubna-i-weselna-jest-juz-u-nas/" target="_blank" rel="noopener">gazety weselnej</a> i edycji szablonu zagwarantują Wam niesamowite wspomnienia, które wrócą, gdy otrzymacie <a href="https://allemedia.pl/film-slubny-krakow/">film ślubny</a> i album ze zdjęciami.</div>
-<p>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=""]</p>
+Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i przekażecie ważne organizacyjne sprawy weselne w niecodzienny sposób. Niezliczone możliwości konfiguracji <a href="https://allemedia.pl/gazeta-slubna-i-weselna-jest-juz-u-nas/" target="_blank" rel="noopener">gazety weselnej</a> i edycji szablonu zagwarantują Wam niesamowite wspomnienia, które wrócą, gdy otrzymacie <a href="https://allemedia.pl/film-slubny-krakow/">film ślubny</a> i album ze zdjęciami.
+
+</div>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=""]
 <div class="premium-card" style="height: 100%;">
-<div style="font-size: 3rem; margin-bottom: 20px;">&#x2728;</div>
+<div style="font-size: 3rem; margin-bottom: 20px;">✨</div>
 <h3>Edytuj swobodnie</h3>
 <p style="text-align: left;">Nasza <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopener">gazeta weselna</a> to<strong> DARMOWY</strong> szablon do edycji w również darmowej aplikacji Canva. W kilka chwil przygotujesz i wydrukujesz niesamowitą atrakcję weselną również u nas.</p>
-<p>[vc_btn title="Sprawdź Cenę Druku" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fprodukt%2Fdruk-gazety%2F|target:_blank" el_class="premium-btn"]</div>
-<p>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light template-preview"][vc_column][vc_column_text css=".vc_custom_1767084162593{padding-bottom: 30px !important;}"]</p>
+[vc_btn title="Sprawdź Cenę Druku" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fprodukt%2Fdruk-gazety%2F|target:_blank" el_class="premium-btn"]
+
+</div>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light template-preview"][vc_column][vc_column_text css=".vc_custom_1767084162593{padding-bottom: 30px !important;}"]
 <div class="landing-divider">Podgląd Szablonów</div>
 <h2 style="text-align: center;"><strong>Zobacz <span class="premium-text-gold">darmowe szablony</span> Gazety Weselnej</strong></h2>
-<p>[/vc_column_text][vc_column_text css=".vc_custom_1767084140726{padding-bottom: 40px !important;}"]</p>
+[/vc_column_text][vc_column_text css=".vc_custom_1767084140726{padding-bottom: 40px !important;}"]
 <h4 style="text-align: center; font-weight: 400; color: var(--premium-navy-light);">Nowość na 2026 rok.</h4>
-<p>[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="template-gallery-split"][vc_column_inner width="1/2"]</p>
+[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="template-gallery-split"][vc_column_inner width="1/2"]
 <div class="premium-spotlight-column">
 <div class="premium-mockup-wrapper premium-float">
-<p>[vc_single_image image="67522" img_size="full" alignment="center" el_class="premium-mockup-image"]</p>
+
+[vc_single_image image="67522" img_size="full" alignment="center" el_class="premium-mockup-image"]
 <div class="premium-badge-spotlight">NOWOŚĆ 2026</div>
 </div>
 <div class="premium-features-list">
 <ul>
-<li><span class="gold-icon">&#x2728;</span> Nowoczesny layout 2026</li>
-<li><span class="gold-icon">&#x270d;&#xfe0f;</span> Ekskluzywne fonty</li>
-<li><span class="gold-icon">&#x1f4c4;</span> Ponad 30 stron darmowego szablonu</li>
+ 	<li><span class="gold-icon">✨</span> Nowoczesny layout 2026</li>
+ 	<li><span class="gold-icon">✍️</span> Ekskluzywne fonty</li>
+ 	<li><span class="gold-icon">📄</span> Ponad 30 stron darmowego szablonu</li>
 </ul>
 </div>
 </div>
-<p>[/vc_column_inner][vc_column_inner width="1/2"][vc_gallery interval="3" images="67522,67523,67524,67525,67526,67527,67528,67529,67530,67531,67532,67533,67534,67535,67536,67537,67538,67539,67540,67541,67542,67543,67544,67545,67546,67547,67548,67549,67550,67551,67552" img_size="full" onclick="" css="" show_navigation_controls="yes" title_desc_position="on_image"][/vc_column_inner][/vc_row_inner][vc_separator type="normal" up="30px" down="30px" css=".vc_custom_1684949203465{padding-top: 60px !important; padding-bottom: 60px !important;}"][vc_column_text css=".vc_custom_1767089349329{padding-top: 30px !important;}"]</p>
-<h2 style="text-align: center; margin-bottom: 50px;"><strong>SZABLON <span class="premium-text-gold">KLASYCZNY</span></strong></h2>
-<p>[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="template-gallery-split"][vc_column_inner width="1/2"]</p>
+[/vc_column_inner][vc_column_inner width="1/2"][vc_gallery interval="3" images="67522,67523,67524,67525,67526,67527,67528,67529,67530,67531,67532,67533,67534,67535,67536,67537,67538,67539,67540,67541,67542,67543,67544,67545,67546,67547,67548,67549,67550,67551,67552" img_size="full" onclick="" css="" show_navigation_controls="yes" title_desc_position="on_image"][/vc_column_inner][/vc_row_inner][vc_separator type="normal" up="30px" down="30px" css=".vc_custom_1684949203465{padding-top: 60px !important; padding-bottom: 60px !important;}"][vc_column_text css=".vc_custom_1767114654954{padding-top: 30px !important;}"]
+<h2 style="text-align: center; margin-bottom: 50px;"><strong>SZABLON <span class="premium-text-gold">2023-2025</span></strong></h2>
+[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="template-gallery-split"][vc_column_inner width="1/2"]
 <div class="premium-spotlight-column">
 <div class="premium-mockup-wrapper premium-float">
-<p>[vc_single_image image="66265" img_size="full" alignment="center" el_class="premium-mockup-image"]</p>
-<div class="premium-badge-spotlight badge-classic">KLASYK</div>
+
+[vc_single_image image="66265" img_size="full" alignment="center" el_class="premium-mockup-image"]
+<div class="premium-badge-spotlight badge-classic">POPRZEDNIA WERSJA</div>
 </div>
 <div class="premium-features-list">
 <ul>
-<li><span class="gold-icon">&#x1f3db;&#xfe0f;</span> Sprawdzony, klasyczny styl</li>
-<li><span class="gold-icon">&#x270d;&#xfe0f;</span> Ponadczasowa typografia</li>
-<li><span class="gold-icon">&#x1f4c4;</span> Ponad 30 stron darmowego szablonu</li>
+ 	<li><span class="gold-icon">🏛️</span> Sprawdzony, klasyczny styl</li>
+ 	<li><span class="gold-icon">✍️</span> Ponadczasowa typografia</li>
+ 	<li><span class="gold-icon">📄</span> Ponad 30 stron darmowego szablonu</li>
 </ul>
 </div>
 </div>
-<p>[/vc_column_inner][vc_column_inner width="1/2"][vc_gallery interval="3" images="66265,66553,66242,66243,66239,66240,66241,66473,66591,66261,66262,66247,66248,66249,66264,66587,66589,66588,66475,66254,66256,66255,66251,66252,66590,66246,66253,66263,66266,66257,66258,66259,66260" img_size="full" onclick="" css="" show_navigation_controls="yes" title_desc_position="on_image"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section social-proof-section premium-bg-navy"][vc_column css=".vc_custom_1713600601944{padding-top: 30px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1766304787442{padding-bottom: 30px !important;}"]</p>
+[/vc_column_inner][vc_column_inner width="1/2"][vc_gallery interval="3" images="66265,66553,66242,66243,66239,66240,66241,66473,66591,66261,66262,66247,66248,66249,66264,66587,66589,66588,66475,66254,66256,66255,66251,66252,66590,66246,66253,66263,66266,66257,66258,66259,66260" img_size="full" onclick="" css="" show_navigation_controls="yes" title_desc_position="on_image"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section social-proof-section premium-bg-navy"][vc_column css=".vc_custom_1713600601944{padding-top: 30px !important;padding-bottom: 0px !important;}"][vc_column_text css=".vc_custom_1766304787442{padding-bottom: 30px !important;}"]
 <div class="landing-divider" style="color: rgba(255,255,255,0.3);">Wasze Opinie</div>
 <h2 style="text-align: center; color: white;">Historie <span class="premium-text-gold">Szczęśliwych</span> Par</h2>
 <div style="max-width: 800px; margin: 40px auto 0; background: white; border-radius: 16px; padding: 40px; box-shadow: 0 20px 50px rgba(0,0,0,0.2);">[grw id=64932]</div>
-<p>[/vc_column_text][vc_video link="https://youtu.be/KU6t-mmNkD0?si=DRc9mhzWHatJbbXg" align="center" css_animation="fadeIn" css=".vc_custom_1735630729987{margin-bottom: 30px !important; margin-top: 60px !important;}"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--spotlight premium-section--offers"][vc_column][vc_column_text css=".vc_custom_1766248575223{padding-top: 30px !important;padding-bottom: 30px !important;}"]</p>
+[/vc_column_text][vc_video link="https://youtu.be/KU6t-mmNkD0?si=DRc9mhzWHatJbbXg" align="center" css_animation="fadeIn" css=".vc_custom_1735630729987{margin-bottom: 30px !important; margin-top: 60px !important;}"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--spotlight premium-section--offers"][vc_column][vc_column_text css=".vc_custom_1766248575223{padding-top: 30px !important;padding-bottom: 30px !important;}"]
 <h2 style="text-align: center;"><strong>Poznaj co jeszcze mamy przygotowane <span class="premium-text-gold">dla Was</span></strong></h2>
 <p style="text-align: center;">Produkty i szablony, które bardzo chcieliście.</p>
-<p>[/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="premium-offer-split"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1766931852029{padding-bottom: 30px !important;}"]</p>
+[/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="premium-offer-split"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1766931852029{padding-bottom: 30px !important;}"]
 <div class="landing-divider" style="text-align: center;">Darmowy szablon to za mało?</div>
 <h2 style="text-align: center;"><strong>Gazeta Weselna Canva - <span class="premium-text-gold">Szablon Premium</span></strong></h2>
-<p>[/vc_column_text][vc_single_image image="65955" img_size="full" eltd_css_animation=""][vc_column_text]</p>
+[/vc_column_text][vc_single_image image="65955" img_size="full" eltd_css_animation=""][vc_column_text]
 <p style="text-align: center;">Poznaj najnowszy <a href="https://sklep.allemedia.pl/gazeta-weselna-szablon-premium/">szablon Gazety Weselnej Premium</a> posiadający <strong>ponad 120 stron</strong>, którego nie spotkasz nigdzie indziej. Bezkompromisowe rozwiązanie zawierające wszystkie nasze materiały projektowe potrzebne do stworzenia wymarzonej Gazety Weselnej. Teraz w kilka chwil zaprojektujesz profesjonalną gazetę z naszym najnowszym szablonem.</p>
 <p style="text-align: center;">Dla porównania nasz pierwszy darmowy szablon posiada <strong>30</strong> zaprojektowanych stron. <a href="https://sklep.allemedia.pl/produkt/gazeta-weselna-szablon-premium-120-stron-canva/">Gazeta Weselna Premium</a> ma ich aż <strong>120+</strong> z przykładami i wieloma dodatkowymi atrakcjami.</p>
-<p>[/vc_column_text][vc_btn title="Odkryj Gazetę Weselną Premium" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fgazeta-weselna-szablon-premium%2F|target:_blank" el_class="premium-btn premium-slide-up"][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=""]</p>
+[/vc_column_text][vc_btn title="Odkryj Gazetę Weselną Premium" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fgazeta-weselna-szablon-premium%2F|target:_blank" el_class="premium-btn premium-slide-up"][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=""]
 <div class="landing-divider">Dla Zapracowanych</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Zleć nam <span class="premium-text-gold">projektowanie</span></h2>
-<p>[/vc_column_text][vc_single_image image="63243" img_size="full" eltd_css_animation=""][vc_column_text css=""]</p>
+[/vc_column_text][vc_single_image image="63243" img_size="full" eltd_css_animation=""][vc_column_text css=""]
 <p style="text-align: center; opacity: 0.8;">Chcesz profesjonalną gazetę, ale nie masz czasu na edycję? Przygotujemy ją za Ciebie. Napiszemy teksty, dobierzemy zdjęcia i zadbamy o każdy detal.</p>
-<p>[/vc_column_text][vc_btn title="Wyceń Projekt Indywidualny" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fgazeta-weselna%2F|target:_blank" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed invitations-section"][vc_column][vc_column_text css=""]</p>
+[/vc_column_text][vc_btn title="Wyceń Projekt Indywidualny" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fgazeta-weselna%2F|target:_blank" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" padding_bottom="50px" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed invitations-section"][vc_column][vc_column_text css=""]
 <div class="landing-divider">Spójny Styl</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Zaproszenia ślubne <span class="premium-text-gold">jak gazeta</span></h2>
-<p>[/vc_column_text][vc_single_image image="67346" img_size="full" css="" eltd_css_animation=""][vc_column_text css=""]</p>
+[/vc_column_text][vc_single_image image="67615" img_size="full" css="" eltd_css_animation=""][vc_column_text css=".vc_custom_1767119493431{padding-bottom: 50px !important;}"]
 <p style="text-align: center; opacity: 0.8;">Zrób wrażenie jeszcze przed weselem. Nasze zaproszenia w formie mini-gazety to hit sezonu. Gotowe RSVP i kilkanaście stron inspiracji.</p>
-<p>[/vc_column_text][vc_btn title="Zobacz Szablon Zaproszeń" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fzaproszenia-slubne-jako-gazeta-weselna-szablon-canva%2F|target:_blank" el_class="premium-btn premium-slide-up premium-delay-2"][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern print-section"][vc_column][vc_video link="https://www.youtube.com/shorts/aV14qqdBrVg" el_width="50" el_aspect="916" align="center" css_animation="fadeIn" css=".vc_custom_1767088447771{margin-top: 30px !important;margin-bottom: 30px !important;}"][/vc_column][vc_column][vc_column_text css=""]</p>
+[/vc_column_text][vc_btn title="Zobacz Szablon Zaproszeń" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fzaproszenia-slubne-jako-gazeta-weselna-szablon-canva%2F|target:_blank" el_class="premium-btn premium-slide-up premium-delay-2"][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern print-section"][vc_column][vc_video link="https://www.youtube.com/shorts/aV14qqdBrVg" el_width="50" el_aspect="916" align="center" css_animation="fadeIn" css=".vc_custom_1767119446880{margin-top: 30px !important;margin-bottom: 30px !important;padding-bottom: 50px !important;}"][/vc_column][vc_column][vc_column_text css=""]
 <div style="max-width: 800px; margin: 0 auto;">
 <div class="landing-divider">Zrobimy to za Was</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Nie martw się o d<span class="premium-text-gold">ruk Gazety Weselnej</span></h2>
 <p style="text-align: center;">Tworzycie szablon samodzielnie? Możemy wydrukować Waszą <a href="https://allemedia.pl/druk-gazety-weselnej/">Gazetę Weselną</a> na wybranym papierze. Macie do wyboru <strong>papier szary gazetowy</strong> lub <strong>papier biały</strong>. Wybierzecie również czy zdjęcia mają być <strong>czarno białe</strong> lub <strong>kolorowe</strong>.</p>
+
 <div class="premium-features-grid" style="justify-content: center;">
 <div class="feature-card">
-<div class="feature-icon">&#x1f4c4;</div>
+<div class="feature-icon">📄</div>
 <div class="feature-text"><strong>Papier Gazetowy</strong>Klimat retro 80g</div>
 </div>
 <div class="feature-card">
-<div class="feature-icon">&#x2728;</div>
+<div class="feature-icon">✨</div>
 <div class="feature-text"><strong>Papier Biały</strong>Premium 90g</div>
 </div>
 <div class="feature-card">
-<div class="feature-icon">&#x1f3a8;</div>
+<div class="feature-icon">🎨</div>
 <div class="feature-text"><strong>Wybór Koloru</strong>Czarno biały lub Kolor</div>
 </div>
 <div class="feature-card">
-<div class="feature-icon">&#x1f6e1;&#xfe0f;</div>
+<div class="feature-icon">🛡️</div>
 <div class="feature-text"><strong>Weryfikacja</strong>Sprawdzamy szablon i poprawimy wyłapane błędy</div>
 </div>
 </div>
 <p style="text-align: center;">Wszystkim zajmiemy się my, a w razie czego pomożemy Wam, gdy zajdzie taka potrzeba.</p>
+
 </div>
-<p>[/vc_column_text][vc_video link="https://youtu.be/rLqmFWw1jjo?si=XQqw1R0fjjhgfS4w" align="center" css_animation="fadeIn" css=".vc_custom_1767003332380{margin-top: 30px !important;margin-bottom: 30px !important;}"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed compare-section"][vc_column width="1/2"][vc_column_text css=""]</p>
+[/vc_column_text][vc_video link="https://youtu.be/rLqmFWw1jjo?si=XQqw1R0fjjhgfS4w" align="center" css_animation="fadeIn" css=".vc_custom_1767003332380{margin-top: 30px !important;margin-bottom: 30px !important;}"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light premium-section--framed compare-section"][vc_column width="1/2"][vc_column_text css=""]
 <div class="premium-card premium-slide-up" style="border: 2px solid var(--premium-gold); transform: scale(1.02); z-index: 10;">
 <div class="premium-badge" style="background: var(--premium-gold); color: white; margin-bottom: 20px;">Rekomendowane</div>
 <h2 style="margin-bottom: 10px;">Druk <span class="premium-text-gold">Allemedia</span></h2>
 <p style="color: var(--premium-gold-dark); font-weight: 500;">Kompleksowa obsługa i jakość</p>
+
+
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;" />
+
 <ul style="list-style: none; padding: 0; margin: 0;">
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Weryfikacja techniczna projektu</li>
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Korekta interpunkcji i ortografii</li>
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Prawdziwy papier gazetowy (lub biały)</li>
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓ </span>Drukujemy w kolorze lub czerni i bieli</li>
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Profesjonalne składanie w cenie</li>
-<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Druk atramentowy jak tradycyjna gazeta (klimat retro), a nie laserowy jak katalog</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Weryfikacja techniczna projektu</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Korekta interpunkcji i ortografii</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Prawdziwy papier gazetowy (lub biały)</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓ </span>Drukujemy w kolorze lub czerni i bieli</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Profesjonalne składanie w cenie</li>
+ 	<li class="comparison-table-row"><span style="color: var(--premium-gold); font-weight: bold;">✓</span> Druk atramentowy jak tradycyjna gazeta (klimat retro), a nie laserowy jak katalog</li>
 </ul>
 <div style="margin-top: 40px; text-align: center;">[vc_btn title="Sprawdź Cenę Druku" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fprodukt%2Fdruk-gazety%2F|target:_blank" el_class="premium-btn"]</div>
 </div>
-<p>[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text css=""]</p>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text css=""]
 <div class="premium-card premium-slide-up premium-delay-1" style="background: #fafaf9; border: 1px solid #eee; box-shadow: none;">
 <div class="premium-badge" style="background: #e5e7eb; color: #6b7280; margin-bottom: 20px;">Standard</div>
 <h2 style="margin-bottom: 10px; color: #4b5563;">Zwykła drukarnia</h2>
 <p style="color: #6b7280;">Podstawowy wydruk z pliku</p>
+
+
 <hr style="border: 0; border-top: 1px solid #e5e7eb; margin: 30px 0;" />
+
 <ul style="list-style: none; padding: 0; margin: 0; color: #6b7280;">
-<li class="comparison-table-row">• Drukują dokładnie to co wyślesz</li>
-<li class="comparison-table-row">• Ryzyko błędów w druku</li>
-<li class="comparison-table-row">• Zwykły papier ksero/laser</li>
-<li>• Klimat katalogu</li>
-<li class="comparison-table-row">• Często brak składania</li>
+ 	<li class="comparison-table-row">• Drukują dokładnie to co wyślesz</li>
+ 	<li class="comparison-table-row">• Ryzyko błędów w druku</li>
+ 	<li class="comparison-table-row">• Zwykły papier ksero/laser</li>
+ 	<li>• Klimat katalogu</li>
+ 	<li class="comparison-table-row">• Często brak składania</li>
 </ul>
 </div>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy shop-section"][vc_column][vc_gallery interval="3" images="67260,67259,67258,67257,67256" img_size="full" onclick="" css_animation="fadeIn" css=".vc_custom_1755501118824{padding-bottom: 30px !important;}" title_desc_position="on_image"][vc_column_text css=""]</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy shop-section"][vc_column][vc_gallery interval="3" images="67260,67259,67258,67257,67256" img_size="full" onclick="" css_animation="fadeIn" css=".vc_custom_1755501118824{padding-bottom: 30px !important;}" title_desc_position="on_image"][vc_column_text css=""]
 <h2 style="text-align: center;"><strong><span style="color: #ff8883;">NOWOŚĆ</span> Sklep z gazetami i nie tylko...</strong></h2>
-<p><img class="aligncenter size-medium wp-image-67361" src="https://allemedia.pl/wp-content/uploads/2025/11/logo-momoenty-300x64.png" alt="" width="300" height="64" /></p>
+<img class="aligncenter size-medium wp-image-67361" src="https://allemedia.pl/wp-content/uploads/2025/11/logo-momoenty-300x64.png" alt="" width="300" height="64" />
 <p style="text-align: center;">Nie zapomnij odwiedzić naszego sklepu z <a href="https://sklep.allemedia.pl/gazeta-na-urodziny/">gazetami na urodziny</a> czy <a href="https://sklep.allemedia.pl/co-to-baby-shower-kiedy-sie-go-organizuje/">Baby Shower</a>. Przygotowaliśmy wiele szablonów na takie okazje jak <a href="https://sklep.allemedia.pl/gazeta-na-roczek-pierwsze-urodziny-szablon-canva/">pierwsze urodziny dziecka</a> do personalizacji, w które włożyliśmy dużo serca. Mamy nadzieję, że przypadną Wam do gustu tak samo jak <a href="https://sklep.allemedia.pl/gazeta-weselna/">Gazeta Weselna</a> czy <a href="https://sklep.allemedia.pl/zabawy-na-wieczor-panienski-najlepsze-gry-szablon-canva/">gry i zabawy na Wieczór Panieński</a>.</p>
-<p>[/vc_column_text][vc_btn title="Poznaj nasz sklep" color="pink" align="center" css=".vc_custom_1762174794525{padding-top: 40px !important;}" link="url:https%3A%2F%2Fsklep.allemedia.pl%2F|target:_blank"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--spotlight"][vc_column][vc_single_image image="67498" img_size="full" alignment="center" css=".vc_custom_1767001427091{padding-bottom: 50px !important;}" eltd_css_animation="element_from_bottom"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy"][vc_column width="1/2"][vc_column_text css=""]</p>
+[/vc_column_text][vc_btn title="Poznaj nasz sklep" color="pink" align="center" css=".vc_custom_1762174794525{padding-top: 40px !important;}" link="url:https%3A%2F%2Fsklep.allemedia.pl%2F|target:_blank"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--spotlight"][vc_column][vc_single_image image="67498" img_size="full" alignment="center" css=".vc_custom_1767001427091{padding-bottom: 50px !important;}" eltd_css_animation="element_from_bottom"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy"][vc_column width="1/2"][vc_column_text css=""]
 <h2 style="text-align: center;"><strong>Gazeta weselna <span class="premium-text-gold">w kilku słowach</span></strong></h2>
-<p>[/vc_column_text][vc_column_text]</p>
+[/vc_column_text][vc_column_text]
 <p style="text-align: center;">Nasza darmowa <a href="https://allemedia.pl/gazeta-weselna/" target="_blank" rel="noopener">Gazeta Weselna</a> została specjalnie zaprojektowana z myślą o Młodych Parach, które pragną nadać swojemu weselu unikalny styl. Dzięki popularnej platformie do projektowania graficznego Canva teraz każdy ma możliwość łatwej modyfikacji i dostosowania gazety do własnych upodobań. To narzędzie zapewnia pełną swobodę w tworzeniu spersonalizowanych i oryginalnych Gazet Weselnych.</p>
-<p>[/vc_column_text][/vc_column][vc_column width="1/2" css=".vc_custom_1684949203465{padding-bottom: 40px !important;}"][vc_single_image image="67495" img_size="full" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--pattern premium-section--prose"][vc_column width="1/2"][vc_single_image image="66557" img_size="full" css="" eltd_css_animation="element_from_fade"][/vc_column][vc_column width="1/2" css=".vc_custom_1684950746429{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column_text css=""]</p>
+[/vc_column_text][/vc_column][vc_column width="1/2" css=".vc_custom_1684949203465{padding-bottom: 40px !important;}"][vc_single_image image="67495" img_size="full" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--pattern premium-section--prose"][vc_column width="1/2"][vc_single_image image="66557" img_size="full" css="" eltd_css_animation="element_from_fade"][/vc_column][vc_column width="1/2" css=".vc_custom_1684950746429{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column_text css=""]
 <h2 style="text-align: center;"><strong>Gazeta Weselna - <span class="premium-text-gold">O Waszej będzie się mówić!</span></strong></h2>
-<p>[/vc_column_text][vc_column_text]</p>
+[/vc_column_text][vc_column_text]
 <p style="text-align: center;"><a href="https://allemedia.pl/2023/05/24/gazeta-slubna-i-weselna-jest-juz-u-nas/" target="_blank" rel="noopener">Gazeta Weselna</a> cieszy się ogromną popularnością na uroczystościach weselnych. Zauważyliśmy, że Młode Pary poszukują nowych atrakcji weselnych zapadających w pamięci. Podzielicie się historią Waszego związku, wspomnieniami, życzeniami dla najbliższych oraz unikalnymi artykułami dotyczącymi życia i pasji. Nasz szablon Gazety Weselnej oferuje możliwość modyfikacji kart związanych z następującymi tematami:</p>
-<p>[/vc_column_text][vc_column_text css=".vc_custom_1766998321341{padding-top: 40px !important;}"]</p>
+[/vc_column_text][vc_column_text css=".vc_custom_1766998321341{padding-top: 40px !important;}"]
 <ul>
-<li>Wywiad z Młodą Parą</li>
-<li>Historia Młodej Pary</li>
-<li>Podziękowania</li>
-<li>Harmonogram wesela i przydatne informacje</li>
-<li>Regulamin wesela</li>
-<li>Horoskop weselny</li>
-<li>Mapa naszych podróży</li>
-<li>Ludzie od zadań specjalnych</li>
-<li>Kartka z kalendarza</li>
-<li>Rocznice ślubu</li>
-<li>Łamigłówka weselna</li>
-<li>Ciekawostki</li>
-<li>Ważne daty</li>
-<li>Znajdź słowa</li>
-<li>Najważniejsze liczby</li>
-<li>Quizy wiedzy o nowożeńcach</li>
-<li>Kolorowanki dla najmłodszych</li>
-<li>Kod QR do wysłania zdjęć przez gość</li>
-<li>Ankieta weselna</li>
-<li>Śpiewnik weselny</li>
-<li>Memy</li>
+ 	<li>Wywiad z Młodą Parą</li>
+ 	<li>Historia Młodej Pary</li>
+ 	<li>Podziękowania</li>
+ 	<li>Harmonogram wesela i przydatne informacje</li>
+ 	<li>Regulamin wesela</li>
+ 	<li>Horoskop weselny</li>
+ 	<li>Mapa naszych podróży</li>
+ 	<li>Ludzie od zadań specjalnych</li>
+ 	<li>Kartka z kalendarza</li>
+ 	<li>Rocznice ślubu</li>
+ 	<li>Łamigłówka weselna</li>
+ 	<li>Ciekawostki</li>
+ 	<li>Ważne daty</li>
+ 	<li>Znajdź słowa</li>
+ 	<li>Najważniejsze liczby</li>
+ 	<li>Quizy wiedzy o nowożeńcach</li>
+ 	<li>Kolorowanki dla najmłodszych</li>
+ 	<li>Kod QR do wysłania zdjęć przez gość</li>
+ 	<li>Ankieta weselna</li>
+ 	<li>Śpiewnik weselny</li>
+ 	<li>Memy</li>
 </ul>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light"][vc_column][vc_single_image image="67497" img_size="full" alignment="center" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed"][vc_column width="1/2"][vc_column_text css=".vc_custom_1766314131148{padding-top: 30px !important;}"]</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light"][vc_column][vc_single_image image="67497" img_size="full" alignment="center" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed"][vc_column width="1/2"][vc_column_text css=".vc_custom_1766314131148{padding-top: 30px !important;}"]
 <h2 style="text-align: center;"><strong>Gazeta weselna - <span class="premium-text-gold">dołącz do naszej społeczności</span></strong></h2>
-<p>[/vc_column_text][vc_column_text css=""]</p>
+[/vc_column_text][vc_column_text css=""]
 <p style="text-align: center;">Nie tylko po Gazetę Weselną, ale po znacznie więcej. Zobacz, jak powstają nasze szablony, gazety, dowiedz się jakich błędów nie popełniać podczas projektowania. Poznaj przydatne wskazówki i wiele więcej!. Zawsze możesz do nas napisać i dopytać o nawet najdrobniejsze szczegóły. Zawsze chętnie pomagamy.</p>
-<p>[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="66160" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.tiktok.com/@allemedia.pl"][vc_single_image image="59642" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.instagram.com/allemedia.pl/"][vc_single_image image="66579" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.youtube.com/@allemediapl"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern premium-section--prose premium-section--invert"][vc_column][vc_single_image image="67587" img_size="full" alignment="center" css=".vc_custom_1767098481259{padding-bottom: 30px !important;}" eltd_css_animation=""][vc_column_text css=".vc_custom_1766314147763{padding-top: 30px !important;}"]</p>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="66160" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.tiktok.com/@allemedia.pl"][vc_single_image image="59642" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.instagram.com/allemedia.pl/"][vc_single_image image="66579" img_size="150px" alignment="center" onclick="custom_link" img_link_target="_blank" css="" eltd_css_animation="" link="https://www.youtube.com/@allemediapl"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern premium-section--prose premium-section--invert"][vc_column][vc_single_image image="67587" img_size="full" alignment="center" css=".vc_custom_1767098481259{padding-bottom: 30px !important;}" eltd_css_animation=""][vc_column_text css=".vc_custom_1766314147763{padding-top: 30px !important;}"]
 <h2 style="text-align: center;"><strong>Gazeta weselna - <span class="premium-text-gold">o czym w niej pisać?</span></strong></h2>
-<p>[/vc_column_text][vc_column_text css=""]W naszym szablonie znajdziesz wiele sekcji do wypełnienia. Oto kilka pomysłów jak możesz dostosować gazetę do swoich potrzeb:</p>
-<p><strong>Podziękowania dla gości:</strong> W tej sekcji możecie wyrazić swoją wdzięczność wobec wszystkich gości, którzy wzięli udział w Waszym weselu. Możecie napisać podziękowania, wspomnieć o wyjątkowych chwilach i podzielić się emocjami związanych z obecnością bliskich w tym ważnym dniu.</p>
-<p><strong>Harmonogram wesela i przydatne informacje:</strong> Ta sekcja zawiera szczegółowy harmonogram wydarzeń na weselu, takich jak ceremonia, przyjęcie, zabawa itp. Możecie również umieścić przydatne informacje, godziny atrakcji, a także wskazówki dotyczące kierowców czy zakwaterowania.</p>
-<p><strong>Wywiad z Młodą Parą:</strong> To świetna okazja, aby podzielić się swoją historią z "czytelnikami". Możecie opowiedzieć o tym, jak się poznaliście, co Was połączyło i jak rozwijał się Wasz związek. Wywiad może zawierać zabawne i wzruszające anegdoty, a także plany na przyszłość.</p>
-<p><strong>Historia poznania: </strong>Ta sekcja poświęcona jest opisowi historii Waszego związku. Możecie opowiedzieć o tym, gdzie i kiedy się spotkaliście, jakie były Wasze pierwsze wrażenia i jak ta relacja się rozwijała.</p>
-<p><strong>Ważne daty:</strong> W tej części można wymienić ważne daty związane z Waszą relacją. Mogą to być daty pierwszego spotkania, pierwszej randki, oświadczyn, a także inne ważne chwile, które mają szczególne znaczenie dla Was.</p>
-<p><strong>Najważniejsze liczby:</strong> To miejsce, gdzie możecie podzielić się niektórymi ważnymi liczbami związanymi ze związkiem i przygotowaniami do ślubu. Mogą to być dni, które spędziliście razem, liczba podróży, jakie odbyliście razem, czy innych wspomnień, które razem stworzyliście.</p>
-<p><strong>Dwa quizy wiedzy o nowożeńcach:</strong> Ta sekcja może zawierać zabawne i interesujące quizy, w których goście mogą sprawdzić swoją wiedzę na Wasz temat. Pytania mogą dotyczyć Waszych zainteresowań, ulubionych miejsc czy najważniejszych chwil w ich życiu.</p>
-<p><strong>Śpiewnik weselny:</strong> Znajdziecie tu teksty popularnych piosenek weselnych, które będą wykonywane podczas przyjęcia weselnego. To świetna pomoc dla gości, którzy chcieliby śpiewać lub śledzić teksty piosenek podczas wesela.</p>
-<p><strong>Kod QR do wysłania zdjęć przez gości:</strong> Ten element pozwala gościom weselnym na łatwe przesyłanie swoich zdjęć z uroczystości. Możęcie umieścić kod QR, który przekieruje ich gości do specjalnego miejsca, gdzie mogą udostępnić swoje zdjęcia, tworząc wspólną galerię wspomnień. Polecam stronę <a title="" href="https://weduploader.com/" target="_blank" rel="noopener">WedUploader.</a></p>
-<p><strong>Kartka z Kalendarza:</strong> Podajcie w ciekawej formie datę Waszego wyjątkowego dnia w Gazecie Weselnej. Nie zapomnijcie o ciekawostkach, wschodzie i zachodzi słońca, imieninach, przysłowiu czy cytacie dnia.</p>
-<p><strong>Memy:</strong> Dodajcie do swojej gazety weselnej ciekawe memy, które rozbawią Waszych gości. Zobaczycie, że zdadzą egzamin. W szablonie mamy ich kilkadziesiąt.[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]<br />
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" background_color="#111827" padding_top="80" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy download-wrapper" el_id="pobierz"][vc_column css=".vc_custom_1762105858845{background-color: transparent !important;}" el_class="download-section"][vc_column_text css=""]</p>
+[/vc_column_text][vc_column_text css=""]W naszym szablonie znajdziesz wiele sekcji do wypełnienia. Oto kilka pomysłów jak możesz dostosować gazetę do swoich potrzeb:
+
+<strong>Podziękowania dla gości:</strong> W tej sekcji możecie wyrazić swoją wdzięczność wobec wszystkich gości, którzy wzięli udział w Waszym weselu. Możecie napisać podziękowania, wspomnieć o wyjątkowych chwilach i podzielić się emocjami związanych z obecnością bliskich w tym ważnym dniu.
+
+<strong>Harmonogram wesela i przydatne informacje:</strong> Ta sekcja zawiera szczegółowy harmonogram wydarzeń na weselu, takich jak ceremonia, przyjęcie, zabawa itp. Możecie również umieścić przydatne informacje, godziny atrakcji, a także wskazówki dotyczące kierowców czy zakwaterowania.
+
+<strong>Wywiad z Młodą Parą:</strong> To świetna okazja, aby podzielić się swoją historią z "czytelnikami". Możecie opowiedzieć o tym, jak się poznaliście, co Was połączyło i jak rozwijał się Wasz związek. Wywiad może zawierać zabawne i wzruszające anegdoty, a także plany na przyszłość.
+
+<strong>Historia poznania: </strong>Ta sekcja poświęcona jest opisowi historii Waszego związku. Możecie opowiedzieć o tym, gdzie i kiedy się spotkaliście, jakie były Wasze pierwsze wrażenia i jak ta relacja się rozwijała.
+
+<strong>Ważne daty:</strong> W tej części można wymienić ważne daty związane z Waszą relacją. Mogą to być daty pierwszego spotkania, pierwszej randki, oświadczyn, a także inne ważne chwile, które mają szczególne znaczenie dla Was.
+
+<strong>Najważniejsze liczby:</strong> To miejsce, gdzie możecie podzielić się niektórymi ważnymi liczbami związanymi ze związkiem i przygotowaniami do ślubu. Mogą to być dni, które spędziliście razem, liczba podróży, jakie odbyliście razem, czy innych wspomnień, które razem stworzyliście.
+
+<strong>Dwa quizy wiedzy o nowożeńcach:</strong> Ta sekcja może zawierać zabawne i interesujące quizy, w których goście mogą sprawdzić swoją wiedzę na Wasz temat. Pytania mogą dotyczyć Waszych zainteresowań, ulubionych miejsc czy najważniejszych chwil w ich życiu.
+
+<strong>Śpiewnik weselny:</strong> Znajdziecie tu teksty popularnych piosenek weselnych, które będą wykonywane podczas przyjęcia weselnego. To świetna pomoc dla gości, którzy chcieliby śpiewać lub śledzić teksty piosenek podczas wesela.
+
+<strong>Kod QR do wysłania zdjęć przez gości:</strong> Ten element pozwala gościom weselnym na łatwe przesyłanie swoich zdjęć z uroczystości. Możęcie umieścić kod QR, który przekieruje ich gości do specjalnego miejsca, gdzie mogą udostępnić swoje zdjęcia, tworząc wspólną galerię wspomnień. Polecam stronę <a title="" href="https://weduploader.com/" target="_blank" rel="noopener">WedUploader.</a>
+
+<strong>Kartka z Kalendarza:</strong> Podajcie w ciekawej formie datę Waszego wyjątkowego dnia w Gazecie Weselnej. Nie zapomnijcie o ciekawostkach, wschodzie i zachodzi słońca, imieninach, przysłowiu czy cytacie dnia.
+
+<strong>Memy:</strong> Dodajcie do swojej gazety weselnej ciekawe memy, które rozbawią Waszych gości. Zobaczycie, że zdadzą egzamin. W szablonie mamy ich kilkadziesiąt.[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" background_color="#111827" padding_top="80" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-section premium-bg-navy download-wrapper" el_id="pobierz"][vc_column css=".vc_custom_1762105858845{background-color: transparent !important;}" el_class="download-section"][vc_column_text css=""]
 <div style="text-align: center; color: white; opacity: 0.8;">
-<h2 style="color: white;"><strong>&#x2764;&#xfe0f; Wesprzyj Zwierzaki</strong></h2>
+<h2 style="color: white;"><strong>❤️ Wesprzyj Zwierzaki</strong></h2>
 <p style="max-width: 600px; margin: 10px auto;">Szablon jest darmowy, ale jeśli chcesz podziękować, możesz wpłacić dobrowolną kwotę. 100% środków przekazujemy na schroniska dla zwierzaków.</p>
+
 </div>
-<p>[/vc_column_text][vc_column_text css=""]</p>
+[/vc_column_text][vc_column_text css=""]
 <div style="margin-top: 20px; display: flex; justify-content: center;">[p24_donation]</div>
-<p>[/vc_column_text][vc_column_text css=".vc_custom_1760951393141{padding-top: 10px !important;padding-bottom: 30px !important;}"]</p>
+[/vc_column_text][vc_column_text css=".vc_custom_1760951393141{padding-top: 10px !important;padding-bottom: 30px !important;}"]
 <div style="max-width: 700px; margin: 0 auto; text-align: center; color: white;">
 <div class="landing-divider" style="color: rgba(255,255,255,0.3);">Pobierz Teraz</div>
 <h2 style="text-align: center; color: white; margin-bottom: 20px;"><strong>Rozpocznij Przygodę z <span class="premium-text-gold">Gazetą Weselną</span></strong></h2>
 <p style="opacity: 0.8; font-size: 1.1rem;">Dołącz do tysięcy par, które oczarowały swoich gości.</p>
+
 </div>
-<p>[/vc_column_text][vc_empty_space height="40px" image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="2/3"]</p>
+[/vc_column_text][vc_empty_space height="40px" image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/6"][/vc_column_inner][vc_column_inner width="2/3"]
 <div class="premium-card premium-slide-up" style="padding: 40px; text-align: center;">
 <h3 style="margin-bottom: 20px;">Darmowy Dostęp do Szablonu</h3>
 <p style="margin-bottom: 30px; opacity: 0.7;">Wpisz swój email, aby natychmiast otrzymać link do edycji w Canva.</p>
+
 <div style="background: #f9fafb; padding: 20px; border-radius: 10px; margin-bottom: 30px;">[email-subscribers-form id="2"][vc_raw_js]PHNjcmlwdD5qUXVlcnkoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCQpe3NldFRpbWVvdXQoZnVuY3Rpb24oKXskKCcuZG93bmxvYWQtc2VjdGlvbiBpbnB1dFt0eXBlPSJzdWJtaXQiXScpLnZhbCgnUG9iaWVyeiBzemFibG9uJyk7fSwgNTAwKTt9KTs8L3NjcmlwdD4=[/vc_raw_js]</div>
-<div style="font-size: 0.9rem; opacity: 0.6; margin-top: 20px;">&#x1f512; Twój email jest bezpieczny. Zero spamu.</div>
+<div style="font-size: 0.9rem; opacity: 0.6; margin-top: 20px;">🔒 Twój email jest bezpieczny. Zero spamu.</div>
 </div>
-<p>[/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_empty_space height="60px" image_repeat="no-repeat"][vc_empty_space image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_column_text css=""]</p>
+[/vc_column_inner][vc_column_inner width="1/6"][/vc_column_inner][/vc_row_inner][vc_empty_space height="60px" image_repeat="no-repeat"][vc_empty_space image_repeat="no-repeat"][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_column_text css=""]
 <p style="text-align: center; color: rgba(255,255,255,0.4); font-size: 0.85rem;"><em>Właścicielem szablonu jest allemedia.pl. Wykorzystanie komercyjne zabronione.</em></p>
-<p>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-section faq-section"][vc_column css=".vc_custom_1694765376221{padding-top: 30px !important;}"][vc_column_text css=".vc_custom_1709055388252{padding-bottom: 20px !important;}"]</p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-section faq-section"][vc_column css=".vc_custom_1694765376221{padding-top: 30px !important;}"][vc_column_text css=".vc_custom_1709055388252{padding-bottom: 20px !important;}"]
 <h3><strong>Gazeta weselna - Pytania i odpowiedzi odnośnie</strong></h3>
-<p>[/vc_column_text][vc_raw_html]JTVCdWx0aW1hdGUtZmFxcyUyMGluY2x1ZGVfY2F0ZWdvcnklM0QlMjJnYXpldGEtd2VzZWxuYSUyMiU1RA==[/vc_raw_html][/vc_column][/vc_row]</p>
+[/vc_column_text][vc_raw_html]JTVCdWx0aW1hdGUtZmFxcyUyMGluY2x1ZGVfY2F0ZWdvcnklM0QlMjJnYXpldGEtd2VzZWxuYSUyMiU1RA==[/vc_raw_html][/vc_column][/vc_row]
