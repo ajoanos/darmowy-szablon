@@ -1,17 +1,14 @@
-[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="center" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][/vc_column][vc_column][vc_column_text css=".vc_custom_1767181214791{padding-top: 40px !important;padding-right: 20px !important;padding-left: 20px !important;}"]
-<div class="premium-hero-content" style="max-width: 900px; margin: 0 auto; text-align: center; padding-bottom: 40px;">
-<div class="premium-fade-in">
-<h1>Gazeta Weselna Darmowy Szablon</h1>
-&nbsp;
-<p style="font-size: 1.25rem; color: var(--premium-navy-light); opacity: 0.9; max-width: 600px; margin: 20px auto 30px;">Poznaj darmowy szablon Gazety Weselnej w Canva, który sami edytujecie w kilka chwil. Zaskocz swoich gości wyjątkową atrakcją weselną.</p>
-
+[vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][vc_column_text css=".vc_custom_1767181214791{padding-top: 40px !important;padding-right: 20px !important;padding-left: 20px !important;}"]
+<div class="premium-hero-content premium-fade-in">
+<div class="premium-hero-subline">Pobrany przez ponad 7000 Młodych par</div>
+<h1 class="premium-hero-title">Darmowy szablon Gazety Weselnej</h1>
+<p class="premium-hero-lead">Pobierz, edytuj i zaskocz gości weselnych!</p>
+<div class="premium-hero-actions">
+  <a class="premium-btn" href="#pobierz">Pobierz darmowe szablony</a>
+  <a class="premium-btn" href="#druk-gazety">Sprawdź cenę druku</a>
 </div>
 </div>
-[/vc_column_text][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][vc_btn title="Pobierz Darmowy Szablon" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:%23pobierz" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" padding_top="30px" css_animation="" box_shadow_on_row="no" el_class="premium-fade-in"][vc_column_inner offset="vc_hidden-xs"][vc_column_text css=".vc_custom_1766932974710{padding-top: 60px !important;}"]
-<div class="premium-float" style="margin-top: -20px;"></div>
-[/vc_column_text][vc_single_image image="67589" img_size="full" alignment="center" css="" eltd_css_animation=""][vc_column_text]
-
-[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="center" css_animation="" box_shadow_on_row="no"][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="67591" img_size="full" alignment="center" css=".vc_custom_1767181268375{padding-top: 30px !important;padding-bottom: 10px !important;}" eltd_css_animation="element_from_bottom"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]
 <div class="landing-divider">Więcej niż pamiątka</div>
 <h2 style="text-align: center;"><strong>Gazeta weselna - </strong><span class="premium-text-gold"><strong>Wyjątkowa atrakcja</strong></span><strong> na Waszym weselu</strong></h2>
 [/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner width="1/2"][vc_column_text css=""]
@@ -99,7 +96,7 @@ Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i
 <p style="text-align: center; opacity: 0.8;">Zrób wrażenie jeszcze przed weselem. Nasze zaproszenia w formie mini-gazety to hit sezonu. Gotowe RSVP i kilkanaście stron inspiracji.</p>
 [/vc_column_text][vc_btn title="Zobacz Szablon Zaproszeń" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fzaproszenia-slubne-jako-gazeta-weselna-szablon-canva%2F|target:_blank" el_class="premium-btn premium-slide-up premium-delay-2"][vc_row_inner row_type="row" type="full_width" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no"][vc_column_inner][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern print-section"][vc_column][vc_video link="https://www.youtube.com/shorts/aV14qqdBrVg" el_width="50" el_aspect="916" align="center" css_animation="fadeIn" css=".vc_custom_1767119446880{margin-top: 30px !important;margin-bottom: 30px !important;padding-bottom: 50px !important;}"][/vc_column][vc_column][vc_column_text css=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--soft premium-section--pattern print-section" el_id="druk-gazety"][vc_column][vc_video link="https://www.youtube.com/shorts/aV14qqdBrVg" el_width="50" el_aspect="916" align="center" css_animation="fadeIn" css=".vc_custom_1767119446880{margin-top: 30px !important;margin-bottom: 30px !important;padding-bottom: 50px !important;}"][/vc_column][vc_column][vc_column_text css=""]
 <div style="max-width: 800px; margin: 0 auto;">
 <div class="landing-divider">Zrobimy to za Was</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Nie martw się o d<span class="premium-text-gold">ruk Gazety Weselnej</span></h2>

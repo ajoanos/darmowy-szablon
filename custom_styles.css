@@ -488,10 +488,67 @@ body .premium-card:hover::before {
 
 /* Hero Section */
 body .premium-hero {
-  background: radial-gradient(circle at 50% 0%, #fffbf2 0%, #ffffff 100%) !important;
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.85) 45%, rgba(255, 255, 255, 0.2) 100%),
+    url("https://allemedia.pl/wp-content/uploads/2025/12/banner-darmowy-szablon-gazety-weselnej-2026-bez-tekstu-scaled.jpg") !important;
+  background-size: cover !important;
+  background-position: right center !important;
+  background-repeat: no-repeat !important;
+  position: relative !important;
   padding-top: 120px !important;
   padding-bottom: 40px !important;
   /* Reduced from 120px */
+}
+
+body .premium-hero::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  z-index: 0 !important;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  pointer-events: none !important;
+}
+
+body .premium-hero-content {
+  max-width: 560px !important;
+  margin: 0 !important;
+  text-align: left !important;
+  padding-bottom: 40px !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+body .premium-hero-title {
+  animation: float 6s ease-in-out infinite !important;
+  text-shadow: 0 20px 40px rgba(15, 23, 42, 0.18) !important;
+}
+
+body .premium-hero-subline {
+  font-size: 1.05rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.5px !important;
+  font-weight: 600 !important;
+  color: rgba(15, 23, 42, 0.7) !important;
+  margin-bottom: 10px !important;
+}
+
+body .premium-hero-lead {
+  font-size: 1.3rem !important;
+  color: var(--premium-navy-light) !important;
+  opacity: 0.95 !important;
+  margin: 20px 0 30px !important;
+}
+
+body .premium-hero-actions {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 16px !important;
+  align-items: center !important;
+}
+
+body .premium-hero-actions .vc_btn3-container {
+  margin: 0 !important;
 }
 
 /* 
@@ -820,6 +877,25 @@ body .premium-card h4 {
 @media (max-width: 768px) {
   body .premium-hero {
     padding: 60px 0 !important;
+    background-position: 80% center !important;
+  }
+
+  body .premium-hero-content {
+    margin: 0 auto !important;
+    text-align: center !important;
+  }
+
+  body .premium-hero-actions {
+    justify-content: center !important;
+  }
+
+  body .premium-hero::before {
+    background: url("https://allemedia.pl/wp-content/uploads/2025/12/banner-darmowy-szablon-gazety-weselnej-2026-bez-tekstu-scaled.jpg") !important;
+    background-size: cover !important;
+    background-position: 80% center !important;
+    background-repeat: no-repeat !important;
+    filter: blur(10px);
+    opacity: 0.55;
   }
 
   /* Hero section centering fix - reset WPBakery negative margins */
