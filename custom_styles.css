@@ -581,12 +581,41 @@ body .download-section .premium-card:hover {
 
 /* Mobile Optimization for Download Card */
 @media (max-width: 768px) {
+
+  /* Reset ALL parent containers including WPBakery's negative margin elements */
+  body .download-wrapper,
+  body .download-wrapper .section_inner,
+  body .download-wrapper .section_inner_margin,
+  body .download-section,
+  body .download-section .vc_row,
+  body .download-section .vc_row_inner,
+  body .download-section .vc_column_container,
+  body .download-section .vc_column-inner,
+  body .download-section .wpb_column,
+  body .download-section .wpb_wrapper,
+  body .download-section .section_inner_margin,
+  body .download-section [class*="vc_col-"] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* The card itself - centered with exact 10px margins */
   body .download-section .premium-card {
-    width: calc(100% - 45px) !important;
-    /* 30px side margins on mobile */
+    width: calc(100vw - 20px) !important;
+    max-width: calc(100vw - 20px) !important;
+    margin: 30px auto !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    box-sizing: border-box !important;
     box-shadow: 0 11px 25px rgba(0, 0, 0, 0.3) !important;
-    /* Tighter shadow for mobile */
-    padding: 50px 20px !important;
+    padding: 40px 20px !important;
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
   }
 
   body .download-section .premium-card:hover {
@@ -793,6 +822,33 @@ body .premium-card h4 {
     padding: 60px 0 !important;
   }
 
+  /* Hero section centering fix - reset WPBakery negative margins */
+  body .premium-hero .vc_row,
+  body .premium-hero .vc_row_inner,
+  body .premium-hero .vc_column_container,
+  body .premium-hero .vc_column-inner,
+  body .premium-hero .wpb_column,
+  body .premium-hero .section_inner_margin {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* Force center button and image in hero */
+  body .premium-hero .vc_btn3-container,
+  body .premium-hero .wpb_single_image {
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+  }
+
+  body .premium-hero .vc_btn3 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
   body .premium-page h1 {
     font-size: 2.8rem !important;
   }
@@ -830,6 +886,97 @@ body .premium-card h4 {
   /* Fix comparison font size on mobile if needed */
   body .comparison-table-row {
     font-size: 14px !important;
+  }
+
+  /* =========================================
+     COMPARE SECTION - Mobile Fix (10px margins)
+     Fixes table positioning on iPhone 15 Pro and similar
+     ========================================= */
+  body .compare-section {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  body .compare-section .vc_column_container,
+  body .compare-section .wpb_column,
+  body .compare-section .vc_column-inner,
+  body .compare-section .wpb_wrapper {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  body .compare-section .premium-card {
+    width: calc(100% - 20px) !important;
+    max-width: none !important;
+    margin: 0 10px 20px 10px !important;
+    box-sizing: border-box !important;
+    transform: none !important;
+  }
+
+  /* Reset inline scale transform for mobile */
+  body .compare-section .premium-card[style*="scale"] {
+    transform: none !important;
+  }
+
+  /* =========================================
+     OFFER SECTION - Mobile Centering Fix
+     (Szablon Premium & Zleć nam projektowanie)
+     ========================================= */
+  body .premium-section--offers,
+  body .premium-section--offers .vc_row,
+  body .premium-section--offers .vc_row_inner,
+  body .premium-section--offers .vc_column_container,
+  body .premium-section--offers .vc_column-inner,
+  body .premium-section--offers .wpb_column,
+  body .premium-section--offers .section_inner_margin,
+  body .premium-offer-split,
+  body .premium-offer-split .vc_column_container,
+  body .premium-offer-split .vc_column-inner,
+  body .premium-offer-split [class*="vc_col-"] {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  /* Force full width columns on mobile */
+  body .premium-offer-split .wpb_column,
+  body .premium-offer-split [class*="vc_col-"] {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Center images in offer section */
+  body .premium-section--offers .wpb_single_image,
+  body .premium-offer-split .wpb_single_image {
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+  }
+
+  body .premium-section--offers .wpb_single_image img,
+  body .premium-offer-split .wpb_single_image img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: calc(100% - 20px) !important;
+  }
+
+  /* Center buttons in offer section */
+  body .premium-section--offers .vc_btn3-container,
+  body .premium-offer-split .vc_btn3-container {
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  body .premium-section--offers .vc_btn3,
+  body .premium-offer-split .vc_btn3 {
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 }
 
