@@ -818,12 +818,12 @@ body .premium-card h4 {
 
   body .intro-section .vc_row_inner,
   body .intro-section .vc_column-inner {
-    padding-left: 8px !important;
-    padding-right: 8px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
   }
 
   body .intro-section .premium-card {
-    margin: 0 8px 24px !important;
+    margin: 0 6px 24px !important;
     width: 100% !important;
   }
 
