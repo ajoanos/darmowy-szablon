@@ -813,6 +813,7 @@ body .premium-card h4 {
     margin-right: 0 !important;
     width: 100% !important;
     max-width: 100% !important;
+    overflow: visible !important;
   }
 
   body .premium-card {
@@ -836,8 +837,8 @@ body .premium-card h4 {
   }
 
   body .intro-section .premium-card {
-    margin: 0 10px 24px !important;
-    width: calc(100% - 20px) !important;
+    margin: 0 5px 24px !important;
+    width: calc(100% - 10px) !important;
   }
 
   body .premium-btn {
