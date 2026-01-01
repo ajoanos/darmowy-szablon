@@ -1,16 +1,43 @@
 [vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="" box_shadow_on_row="no" el_class="premium-page premium-hero"][vc_column][vc_column_text css=".vc_custom_1767181214791{padding-top: 40px !important;padding-right: 20px !important;padding-left: 20px !important;}"]
 <div class="premium-hero-content premium-fade-in">
+<div class="premium-hero-text">
 <div class="premium-hero-subline">Pobrany przez ponad 7000 Młodych par</div>
 <h1 class="premium-hero-title">Darmowy szablon Gazety Weselnej</h1>
 <p class="premium-hero-lead">Od czego zacząć przygodę?</p>
 
 <p class="premium-hero-intro">Poniżej znajdziesz wszystkie możliwości, które dla Ciebie przygotowaliśmy.</p>
+</div>
 <div class="premium-hero-options">
-<a class="premium-hero-option" href="#zobacz-darmowe-szablony"><span class="premium-hero-option-icon">✦</span><span class="premium-hero-option-content"><span class="premium-hero-option-title">Poznaj darmowe szablony</span><span class="premium-hero-option-desc">Gotowe projekty, od których łatwo zacząć.</span></span><span class="premium-hero-option-arrow">→</span></a>
-<a class="premium-hero-option" href="#druk-gazety"><span class="premium-hero-option-icon">✦</span><span class="premium-hero-option-content"><span class="premium-hero-option-title">Dlaczego warto u nas wydrukować?</span><span class="premium-hero-option-desc">Dowiedz się, co zyskujesz w druku.</span></span><span class="premium-hero-option-arrow">→</span></a>
-<a class="premium-hero-option" href="#zlec-nam-projektowanie"><span class="premium-hero-option-icon">✦</span><span class="premium-hero-option-content"><span class="premium-hero-option-title">Jesteście zapracowani?</span><span class="premium-hero-option-desc">Zaprojektujemy Waszą gazetę za Was.</span></span><span class="premium-hero-option-arrow">→</span></a>
-<a class="premium-hero-option" href="#szablon-premium"><span class="premium-hero-option-icon">✦</span><span class="premium-hero-option-content"><span class="premium-hero-option-title">Szablon premium 120+ stron</span><span class="premium-hero-option-desc">Rozbudowany zestaw inspiracji i układów.</span></span><span class="premium-hero-option-arrow">→</span></a>
-<a class="premium-hero-option premium-hero-option--wide" href="#zaproszenia-slubne-jak-gazeta"><span class="premium-hero-option-icon">✦</span><span class="premium-hero-option-content"><span class="premium-hero-option-title">Zaproszenia jak gazeta</span><span class="premium-hero-option-desc">Zaskocz gości kreatywnym formatem.</span></span><span class="premium-hero-option-arrow">→</span></a>
+<a class="premium-hero-option" href="#zobacz-darmowe-szablony">
+<span class="premium-step-badge">Krok 01</span>
+<h3 class="premium-hero-option-title">Poznaj darmowe szablony</h3>
+<p class="premium-hero-option-desc">Wybierz bazę, która najlepiej oddaje styl Waszego wesela.</p>
+<span class="premium-hero-cta">Zobacz szablony</span>
+</a>
+<a class="premium-hero-option" href="#druk-gazety">
+<span class="premium-step-badge">Krok 02</span>
+<h3 class="premium-hero-option-title">Dlaczego druk u nas?</h3>
+<p class="premium-hero-option-desc">Zadbamy o detale, które zachwycą Waszych gości.</p>
+<span class="premium-hero-cta">Sprawdź druk</span>
+</a>
+<a class="premium-hero-option" href="#zlec-nam-projektowanie">
+<span class="premium-step-badge">Krok Opcja</span>
+<h3 class="premium-hero-option-title">Zapracowani?</h3>
+<p class="premium-hero-option-desc">Zaprojektujemy wszystko za Was.</p>
+<span class="premium-hero-cta">Zleć projekt</span>
+</a>
+<a class="premium-hero-option" href="#szablon-premium">
+<span class="premium-step-badge">Krok 03</span>
+<h3 class="premium-hero-option-title">Szablon premium 120+ stron</h3>
+<p class="premium-hero-option-desc">Pełna księga inspiracji i układów.</p>
+<span class="premium-hero-cta">Odkryj premium</span>
+</a>
+<a class="premium-hero-option" href="#zaproszenia-slubne-jak-gazeta">
+<span class="premium-step-badge">Krok 04</span>
+<h3 class="premium-hero-option-title">Zaproszenia jak gazeta</h3>
+<p class="premium-hero-option-desc">Pierwsze wrażenie robi się tylko raz.</p>
+<span class="premium-hero-cta">Zobacz zaproszenia</span>
+</a>
 </div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column offset="vc_hidden-lg"][vc_single_image image="67663" img_size="full" alignment="center" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]

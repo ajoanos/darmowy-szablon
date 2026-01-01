@@ -4,7 +4,7 @@
  * This code is optimized to work within the WPBakery CSS field.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
 
 :root {
   /* Premium Palette */
@@ -47,7 +47,7 @@ body {
 }
 
 body .premium-page {
-  font-family: 'Manrope', sans-serif !important;
+  font-family: 'Lato', sans-serif !important;
   color: var(--premium-navy-light) !important;
   line-height: 1.8 !important;
   font-size: 17px !important;
@@ -533,12 +533,16 @@ body .premium-hero::before {
 }
 
 body .premium-hero-content {
-  max-width: 560px !important;
+  max-width: 1100px !important;
   margin: 0 !important;
   text-align: left !important;
   padding-bottom: 40px !important;
   position: relative !important;
   z-index: 1 !important;
+}
+
+body .premium-hero-text {
+  max-width: 560px !important;
 }
 
 body .premium-hero-title {
@@ -581,47 +585,54 @@ body .premium-hero-actions .vc_btn3-container {
 
 body .premium-hero-options {
   display: grid !important;
-  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-  gap: 18px !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 25px !important;
+  margin-top: 30px !important;
 }
 
 body .premium-hero-option {
   display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-  gap: 16px !important;
-  padding: 18px 20px !important;
-  border-radius: 18px !important;
-  border: 1px solid rgba(197, 160, 89, 0.22) !important;
-  background: linear-gradient(135deg, #f2eee6 0%, #f8f4ed 100%) !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  gap: 14px !important;
+  padding: 26px 28px !important;
+  border-radius: 15px !important;
+  border: 1px solid rgba(15, 23, 42, 0.08) !important;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.95) 0%, rgba(247, 244, 238, 0.95) 100%) !important;
   color: var(--premium-navy) !important;
   text-decoration: none !important;
   font-weight: 600 !important;
-  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1) !important;
+  box-shadow: 0 18px 36px rgba(15, 23, 42, 0.08) !important;
   transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease !important;
   will-change: transform;
   position: relative !important;
   overflow: hidden !important;
+  min-height: 220px !important;
+}
+
+body .premium-hero-option > * {
+  position: relative !important;
+  z-index: 1 !important;
 }
 
 body .premium-hero-option:nth-child(1) {
-  background: linear-gradient(135deg, #f2ede3 0%, #f9f5ef 100%) !important;
+  grid-column: span 2 !important;
 }
 
 body .premium-hero-option:nth-child(2) {
-  background: linear-gradient(135deg, #efe9df 0%, #f6f1ea 100%) !important;
+  grid-column: span 2 !important;
 }
 
 body .premium-hero-option:nth-child(3) {
-  background: linear-gradient(135deg, #ede6dc 0%, #f5f0e7 100%) !important;
+  grid-column: span 1 !important;
 }
 
 body .premium-hero-option:nth-child(4) {
-  background: linear-gradient(135deg, #ebe4da 0%, #f4efe6 100%) !important;
+  grid-column: span 2 !important;
 }
 
 body .premium-hero-option:nth-child(5) {
-  background: linear-gradient(135deg, #e9e1d7 0%, #f2ede4 100%) !important;
+  grid-column: span 1 !important;
 }
 
 body .premium-hero-option--wide {
@@ -632,24 +643,23 @@ body .premium-hero-option::after {
   content: "" !important;
   position: absolute !important;
   inset: 0 !important;
-  background: linear-gradient(120deg, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0)) !important;
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0.05), rgba(15, 23, 42, 0.25)) !important;
   opacity: 0 !important;
   transition: opacity 0.35s ease !important;
 }
 
-body .premium-hero-option-icon {
-  width: 42px !important;
-  height: 42px !important;
+body .premium-step-badge {
   display: inline-flex !important;
   align-items: center !important;
-  justify-content: center !important;
-  border-radius: 50% !important;
-  border: 1px solid rgba(197, 160, 89, 0.32) !important;
-  color: var(--premium-gold-dark) !important;
-  font-size: 1rem !important;
-  flex-shrink: 0 !important;
-  background: rgba(255, 255, 255, 0.85) !important;
-  box-shadow: 0 10px 20px rgba(197, 160, 89, 0.12) !important;
+  padding: 6px 16px !important;
+  border-radius: 30px !important;
+  background: rgba(255, 255, 255, 0.7) !important;
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  font-size: 0.85rem !important;
+  letter-spacing: 0.6px !important;
+  text-transform: uppercase !important;
+  font-weight: 700 !important;
+  color: rgba(15, 23, 42, 0.7) !important;
 }
 
 body .premium-hero-option-content {
@@ -661,16 +671,18 @@ body .premium-hero-option-content {
 
 body .premium-hero-option-title {
   font-family: 'Playfair Display', serif !important;
-  font-size: 1.05rem !important;
+  font-size: 1.8rem !important;
   color: var(--premium-navy) !important;
-  line-height: 1.25 !important;
+  line-height: 1.2 !important;
+  margin: 0 !important;
 }
 
 body .premium-hero-option-desc {
-  font-size: 0.92rem !important;
+  font-size: 1rem !important;
   color: rgba(15, 23, 42, 0.65) !important;
-  line-height: 1.4 !important;
-  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  font-weight: 400 !important;
+  margin: 0 !important;
 }
 
 body .premium-hero-option-text {
@@ -678,23 +690,34 @@ body .premium-hero-option-text {
   line-height: 1.4 !important;
 }
 
-body .premium-hero-option-arrow {
-  font-size: 1.2rem !important;
-  color: var(--premium-gold-dark) !important;
-  transition: transform 0.35s ease, color 0.35s ease !important;
+body .premium-hero-cta {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 10px 20px !important;
+  border-radius: 25px !important;
+  background: #ffffff !important;
+  color: #000000 !important;
+  font-size: 0.95rem !important;
+  font-weight: 600 !important;
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.08) !important;
+  opacity: 0 !important;
+  transform: translateY(12px) !important;
+  transition: opacity 0.35s ease, transform 0.35s ease !important;
 }
 
 body .premium-hero-option:hover {
-  transform: translateY(-6px) !important;
+  transform: translateY(-5px) !important;
   border-color: rgba(197, 160, 89, 0.55) !important;
   box-shadow:
     0 24px 50px rgba(15, 23, 42, 0.16),
     0 0 0 1px rgba(197, 160, 89, 0.2) inset !important;
 }
 
-body .premium-hero-option:hover .premium-hero-option-arrow {
-  transform: translateX(6px) !important;
-  color: var(--premium-gold) !important;
+body .premium-hero-option:hover .premium-hero-cta {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
 }
 
 body .premium-hero-option:hover::after {
@@ -724,37 +747,29 @@ body .premium-anchor {
 
 @media (max-width: 900px) {
   body .premium-hero-options {
-    grid-template-columns: 1fr !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   }
 
-  body .premium-hero-option:nth-child(1) {
-    background: linear-gradient(135deg, #f4efe7 0%, #fbf7f1 100%) !important;
-  }
-
-  body .premium-hero-option:nth-child(2) {
-    background: linear-gradient(135deg, #f1ebe2 0%, #f8f3ed 100%) !important;
-  }
-
-  body .premium-hero-option:nth-child(3) {
-    background: linear-gradient(135deg, #efe8de 0%, #f6f1ea 100%) !important;
-  }
-
-  body .premium-hero-option:nth-child(4) {
-    background: linear-gradient(135deg, #ede6db 0%, #f4efe7 100%) !important;
-  }
-
+  body .premium-hero-option:nth-child(1),
+  body .premium-hero-option:nth-child(2),
+  body .premium-hero-option:nth-child(3),
+  body .premium-hero-option:nth-child(4),
   body .premium-hero-option:nth-child(5) {
-    background: linear-gradient(135deg, #ebe3d8 0%, #f2ede4 100%) !important;
+    grid-column: span 1 !important;
   }
 }
 
 @media (max-width: 768px) {
+  body .premium-hero-options {
+    grid-template-columns: 1fr !important;
+  }
+
   body .premium-hero-option {
     padding: 14px 16px !important;
   }
 
   body .premium-hero-option-title {
-    font-size: 1rem !important;
+    font-size: 1.4rem !important;
   }
 
   body .premium-hero-option-desc {
@@ -769,6 +784,10 @@ body .premium-anchor {
 
   body .premium-hero-option:hover {
     transform: none !important;
+  }
+
+  body .premium-hero-cta {
+    transition: none !important;
   }
 }
 
