@@ -1042,6 +1042,8 @@ body .premium-card h4 {
     margin-right: 0 !important;
     padding-left: 10px !important;
     padding-right: 10px !important;
+    overflow-x: visible !important;
+    box-sizing: border-box !important;
   }
 
   /* Force full width columns on mobile */
