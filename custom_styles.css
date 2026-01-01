@@ -1041,12 +1041,27 @@ body .premium-card h4 {
   body .premium-offer-split [class*="vc_col-"] {
     margin-left: 0 !important;
     margin-right: 0 !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
     width: 100% !important;
     max-width: 100% !important;
     overflow-x: visible !important;
     box-sizing: border-box !important;
+  }
+
+  body .premium-section--offers .section_inner_margin {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+
+  body .premium-section--offers .vc_row_inner,
+  body .premium-section--offers .vc_column-inner,
+  body .premium-section--offers .wpb_wrapper,
+  body .premium-offer-split,
+  body .premium-offer-split .vc_column-inner,
+  body .premium-offer-split .wpb_wrapper {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 
   body .premium-section--offers .vc_row_inner,
