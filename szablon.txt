@@ -2,10 +2,16 @@
 <div class="premium-hero-content premium-fade-in">
 <div class="premium-hero-subline">Pobrany przez ponad 7000 Młodych par</div>
 <h1 class="premium-hero-title">Darmowy szablon Gazety Weselnej</h1>
-<p class="premium-hero-lead">Pobierz, edytuj i zaskocz gości weselnych!</p>
+<p class="premium-hero-lead">Od czego zacząć przygodę?</p>
 
-<div class="premium-hero-actions"><a class="premium-btn" href="#pobierz">Pobierz darmowe szablony</a>
-<a class="premium-btn" href="#druk-gazety">Sprawdź cenę druku</a></div>
+<p class="premium-hero-intro">Poniżej znajdziesz wszystkie możliwości, które dla Ciebie przygotowaliśmy.</p>
+<div class="premium-hero-options">
+<a class="premium-hero-option premium-hero-option--gold" href="#zobacz-darmowe-szablony"><span class="premium-hero-option-text">Poznaj nasze darmowe szablony</span><span class="premium-hero-option-arrow">→</span></a>
+<a class="premium-hero-option premium-hero-option--navy" href="#druk-gazety"><span class="premium-hero-option-text">Dlaczego warto u nas wydrukować?</span><span class="premium-hero-option-arrow">→</span></a>
+<a class="premium-hero-option premium-hero-option--blush" href="#zlec-nam-projektowanie"><span class="premium-hero-option-text">Jesteście zapracowani? Zaprojektujemy Waszą gazetę</span><span class="premium-hero-option-arrow">→</span></a>
+<a class="premium-hero-option premium-hero-option--olive" href="#szablon-premium"><span class="premium-hero-option-text">Darmowy szablon to za mało? Poznaj szablon premium 120+ stron</span><span class="premium-hero-option-arrow">→</span></a>
+<a class="premium-hero-option premium-hero-option--pearl" href="#zaproszenia-slubne-jak-gazeta"><span class="premium-hero-option-text">Zaproszenia ślubne jak gazeta. Zaskocz swoich gości kreatywnością.</span><span class="premium-hero-option-arrow">→</span></a>
+</div>
 </div>
 [/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column offset="vc_hidden-lg"][vc_single_image image="67663" img_size="full" alignment="center" css="" eltd_css_animation="element_from_fade"][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite intro-section"][vc_column][vc_column_text css=""]
 <div class="landing-divider">Więcej niż pamiątka</div>
@@ -27,7 +33,7 @@ Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i
 </div>
 [/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light template-preview"][vc_column][vc_column_text css=".vc_custom_1767084162593{padding-bottom: 30px !important;}"]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="center" video="" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--light template-preview" el_id="zobacz-darmowe-szablony"][vc_column][vc_column_text css=".vc_custom_1767084162593{padding-bottom: 30px !important;}"]
 <div class="landing-divider">Podgląd Szablonów</div>
 <h2 style="text-align: center;"><strong>Zobacz <span class="premium-text-gold">darmowe szablony</span> Gazety Weselnej</strong></h2>
 [/vc_column_text][vc_column_text css=".vc_custom_1767084140726{padding-bottom: 40px !important;}"]
@@ -76,6 +82,7 @@ Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i
 <h2 style="text-align: center;"><strong>Poznaj co jeszcze mamy przygotowane <span class="premium-text-gold">dla Was</span></strong></h2>
 <p style="text-align: center;">Produkty i szablony, które bardzo chcieliście.</p>
 [/vc_column_text][vc_row_inner row_type="row" type="grid" use_row_as_full_screen_section_slide="no" text_align="left" css_animation="" box_shadow_on_row="no" el_class="premium-offer-split"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1766931852029{padding-bottom: 30px !important;}"]
+<div id="szablon-premium" class="premium-anchor"></div>
 <div class="landing-divider" style="text-align: center;">Darmowy szablon to za mało?</div>
 <h2 style="text-align: center;"><strong>Gazeta Weselna Canva - <span class="premium-text-gold">Szablon Premium</span></strong></h2>
 [/vc_column_text][vc_single_image image="65955" img_size="full" eltd_css_animation=""][vc_column_text]
@@ -85,10 +92,11 @@ Dzięki szablonowi Gazety Weselnej, opowiecie Waszą wyjątkową historię jak i
 <div class="landing-divider">Dla Zapracowanych</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Zleć nam <span class="premium-text-gold">projektowanie</span></h2>
 [/vc_column_text][vc_single_image image="63243" img_size="full" eltd_css_animation=""][vc_column_text css=""]
+<div id="zlec-nam-projektowanie" class="premium-anchor"></div>
 <p style="text-align: center; opacity: 0.8;">Chcesz profesjonalną gazetę, ale nie masz czasu na edycję? Przygotujemy ją za Ciebie. Napiszemy teksty, dobierzemy zdjęcia i zadbamy o każdy detal.</p>
 [/vc_column_text][vc_btn title="Wyceń Projekt Indywidualny" style="custom" custom_background="#c5a059" custom_text="#ffffff" shape="round" align="center" link="url:https%3A%2F%2Fsklep.allemedia.pl%2Fgazeta-weselna%2F|target:_blank" el_class="premium-btn"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="full_width" text_align="left" video="" css_animation="" box_shadow_on_row="no"][vc_column][vc_column_text]
 
-[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" padding_bottom="50px" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed invitations-section"][vc_column][vc_column_text css=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row row_type="row" use_row_as_full_screen_section="no" type="grid" text_align="left" video="" padding_bottom="50px" css_animation="element_from_bottom" box_shadow_on_row="no" el_class="premium-page premium-section premium-section--offwhite premium-section--framed invitations-section" el_id="zaproszenia-slubne-jak-gazeta"][vc_column][vc_column_text css=""]
 <div class="landing-divider">Spójny Styl</div>
 <h2 style="text-align: center; margin-bottom: 20px;">Zaproszenia ślubne <span class="premium-text-gold">jak gazeta</span></h2>
 [/vc_column_text][vc_single_image image="67615" img_size="full" css="" eltd_css_animation=""][vc_column_text css=".vc_custom_1767119493431{padding-bottom: 50px !important;}"]
