@@ -1046,11 +1046,25 @@ body .premium-card h4 {
     box-sizing: border-box !important;
   }
 
+  body .premium-section--offers .vc_row_inner,
+  body .premium-offer-split {
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
   /* Force full width columns on mobile */
   body .premium-offer-split .wpb_column,
   body .premium-offer-split [class*="vc_col-"] {
     width: 100% !important;
     max-width: 100% !important;
+    float: none !important;
+  }
+
+  body .premium-offer-split .vc_column-inner {
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
   /* Center images in offer section */
